@@ -1,0 +1,765 @@
+@NHẬN BIẾT {-}
+
+#Chất nào sau đây không phải là este?
+D. C2H5OC2H5.
+A. CH3COOC2H5.	
+B. C3H5(COOCH3)3.	
+C. HCOOCH3.	
+#Chất X có công thức cấu tạo CH2=CH - COOCH3. Tên gọi của X là
+C. metyl acrylat.	
+A. propyl fomat.	
+B. metyl axetat.	
+D. etyl axetat.
+#Etyl propionat là este có mùi thơm của dứa. Công thức của etyl propionat là
+B. C2H5COOC2H5.	
+A. HCOOC2H5.	
+C. C2H5COOCH3.	
+D. CH3COOCH3.
+#Chất X có công thức cấu tạo CH3COOCH3. Tên gọi của X là
+B. metyl axetat.	
+A. propyl fomat.	
+C. metyl acrylat.	
+D. etyl axetat.
+#Benzyl axetat là este có mùi thơm hoa nhài. Công thức của benzyl axetat là
+D. CH3COOCH2C6H5.
+A. HCOOC2H5.	
+B. C2H5COOC2H5.	
+C. C2H5COOCH3.	
+#Chất béo là thành phần chính trong dầu thực vật và mỡ động vật. Trong số các chất sau đây, chất nào là chất béo?
+C. (C15H31COO)3C3H5.	
+A. C17H35COOC3H5.	
+B. (C17H33COO)2C2H4.	
+D. CH3COOC6H5.
+#Công thức nào sau đây có thể là công thức của chất béo?
+D. (C17H35COO)3C3H5.
+A. CH3COOCH2C6H5.      
+B. C15H31COOCH3.           
+C. (C17H33COO)2C2H4.
+#Công thức của axit oleic là
+B. C17H33COOH.	
+A. CHCOOH.	
+C. HCOOH.	
+D. CH3COOH.
+#Công thức axit stearic là
+C. C17H35COOH.	
+A. C2H5COOH.	
+B. CH3COOH.	
+D. HCOOH.
+#Tripanmitin là chất béo no, ở trạng thái rắn. Công thức của tripanmitin là
+C. (C15H31COO)3C3H5.	
+A. (C17H33COO)3C3H5.	
+B. (C17H35COO)3C3H5.	
+D. (C17H31COO)3C3H5.
+#Trilinolein là chất béo không no, ở trạng thái lỏng. Công thức của trilinolein là
+D. (C17H31COO)3C3H5.
+A. (C17H33COO)3C3H5.	
+B. (C17H35COO)3C3H5.	
+C. (C15H31COO)3C3H5.	
+#Công thức của tristearin là
+B. (C17H35COO)3C3H5.      
+A. (C2H5COO)3C3H5.        
+C. (CH3COO)3C3H5.	 
+D. (HCOO)3C3H5.
+#Công thức của triolein là
+B. (C17H33COO)3C3H5.      
+A. (HCOO)3C3H5.             
+C. (C2H5COO)3C3H5.	 
+D. (CH3COO)C3H5.
+#Chất nào sau đây có thành phần chính là trieste của glixerol với axit béo?
+B. mỡ bò.	
+A. sợi bông.	
+C. bột gạo.	
+D. tơ tằm.
+#Chất nào sau đây là glixerol?
+D. C3H5(OH)3.
+A. C2H4(OH)2.	
+B. C3H5OH.	
+C. C2H5OH.	
+
+#Chất không phải axit béo là
+C. axit fomic.	
+A. axit oleic.	
+B. axit panmitic.	
+D. axit stearic.
+#Tên gọi của CH3COOC6H5 là
+B. phenyl axetat.	
+A. benzyl axetat.	
+C. metyl axetat.	
+D. etyl axetat.
+#Chất nào sau đây thuộc loại monosaccarit?
+C. Glucozơ.	
+A. Saccarozơ.	
+B. Xenlulozơ.	
+D. Tinh bột.
+#Glucozơ là một loại monosaccarit có nhiều trong quả nho chín. Công thức phân tử của glucozơ là
+D. C6H12O6.
+A. C2H4O2.	
+B. (C6H10O5)n.	
+C. C12H22O11.	
+#Fructozơ là một loại monosaccarit có nhiều trong mật ong, có vị ngọt sắc. Công thức phân tử của fructozơ là
+A. C6H12O6.	
+B. (C6H10O5)n.	
+C. C2H4O2.	
+D. C12H22O11.
+#Chất nào sau đây có tới 40% trong mật ong?
+D. Fructozơ.
+A. Saccarozơ.	
+B. Amilopectin.	
+C. Glucozơ.	
+#Loại thực phẩm không chứa nhiều saccarozơ là
+C. mật ong.	
+A. đường phèn.	
+B. mật mía.	
+D. đường kính.
+#Loại đường nào sau đây có trong máu động vật?
+D. Glucozơ.
+A. Saccarozơ.	
+B. Mantozơ.	
+C. Fructozơ.	
+#Khi bị ốm, mất sức, nhiều người bệnh thường được truyền dịch đường để bổ sung nhanh năng lượng. Chất trong dịch truyền có tác dụng trên là
+A. Glucozơ.	
+B. Saccarozơ.	
+C. Fructozơ.	
+D. Mantozơ.
+#Trong y học, cacbohiđrat nào sau đây dùng để làm thuốc tăng lực?
+D. Glucozơ.
+A. Xenlulozơ.	
+B. Fructozơ.	
+C. Saccarozơ.	
+#Saccarozơ là một loại đisaccarit có nhiều trong cây mía, hoa thốt nốt, củ cải đường. Công thức phân tử của saccarozơ là
+C. C12H22O11.	
+A. C6H12O6.	
+B. (C6H10O5)n.	
+D. C2H4O2.
+#Chất nào sau đây thuộc loại monosaccarit?
+D. Fructozơ.
+A. Saccarozơ.	
+B. Xenlulozơ.	
+C. Tinh bột.	
+#Chất nào sau đây thuộc loại polisaccarit?
+D. Tinh bột.
+A. Fructozơ.	
+B. Glucozơ.	
+C. Saccarozơ.	
+#Chất nào sau đây thuộc loại polisaccarit?
+B. Xenlulozơ.	
+A. Saccarozơ.	
+C. Fructozơ.	
+D. Glucozơ.
+#Chất nào sau đây thuộc loại đisaccarit?
+C. Saccarozơ.	
+A. Glucozơ.	
+B. Fructozơ.	
+D. Tinh bột.
+#Xenlulozơ thuộc loại polisaccarit, là thành phần chính tạo nên màng tế bào thực vật, có nhiều trong gỗ, bông nõn. Công thức của xenlulozơ là
+A. (C6H10O5)n.	
+B. C11H22O11.	
+C. C6H12O6.	
+D. C2H4O2.
+#Chất nào sau đây không tan trong nước?
+B. Xenlulozơ.	
+A. Saccarozơ.	
+C. Fructozơ.	
+D. Glucozơ.
+#Chất nào sau đây thuộc loại amin bậc 1?
+D. CH3NH2
+A. (CH3)3N	
+B. CH3NHCH3	
+C. CH3CH2NHCH3	
+#Chất nào sau đây thuộc loại amin bậc hai?
+A. CH3NHCH3.	
+B. C6H5NH2.	
+C. C2H5NH2.	
+D. CH3NH2.
+#Chất nào là amin bậc 3?
+B. (CH3)3N.	
+A. (CH3)3CNH2.	
+C. (NH2)3C6H3.	
+D. CH3NHC6H5.
+#Công thức hóa học của etylamin là
+A. C2H5NH2.	       	        
+B. CH3-NH-CH3.		
+C. CH3NH2.		
+D. C4H9NH2.
+#Công thức phân tử của đimeylamin là
+B. C2H7N.	
+A. C2H8N2.	
+C. C4H11N.	
+D. CH6N2.
+#Anilin có công thức là
+B. C6H5NH2.	
+A. CH3COOH.	
+C. CH3OH.	
+D. C6H5OH.
+#Amin tồn tại ở trạng thái lỏng trong điều kiện thường là
+B. anilin.	
+A. metylamin.	
+C. etylamin.	
+D. đimetylamin.
+#Hợp chất H2N-CH2-COOH có tên gọi là
+D. glyxin.
+A. valin.	
+B. lysin.	
+C. alanin.	
+#Hợp chất H2N-CH(CH3)-COOH có tên gọi là
+C. alanin.	
+A. valin.	
+B. lysin.	
+D. glyxin.
+#Hợp chất CH3CH(CH3)CH(NH2)COOH có tên gọi là
+A. valin.	
+B. lysin.	
+C. alanin.	
+D. glyxin.
+#Hợp chất H2N[CH2]4CH(NH2)COOH có tên gọi là
+B. lysin.	
+A. valin.	
+C. alanin.	
+D. glyxin.
+#Hợp chất HOOCCH2CH2CH(NH2)COOH có tên gọi là
+D. axit glutamic.
+A. valin.	
+B. lysin.	
+C. alanin.	
+#Chất nào sau đây là đipeptit?
+C. Gly-gly.	
+A. Glyl-Ala-Val.	
+B. Lysin.	
+D. Val-Ala-Ala.
+#Chất nào sau đây là tripeptit?
+A. Gly-Ala-Val.	
+B. Alanin.	
+C. Gly-Gly.	
+D. Val-Ala-Ala-Gly.
+#Trong phân tử Gly-Ala, amino axit đầu C chứa nhóm
+C. COOH.	
+A. NO2.	
+B. NH2.	
+D. CHO.
+#Số liên kết peptit trong phân tử Ala-Gly-Ala-Gly là
+(A)	1
+(B)	2
+(C)	3
+(D)	4
+/C
+#Trong phân tử Gly-Ala, amino axit đầu N chứa nhóm
+B. NH2.	
+A. NO2.	
+C. COOH.	
+D. CHO.
+#Khi nấu canh cua thì thấy các mảng "riêu cua" nổi lên là do:
+B. sự đông tụ của protein do nhiệt độ.
+A. phản ứng thủy phân của protein.	
+C. phản ứng màu của protein.	
+D. sự đông tụ của lipit.
+@THÔNG HIỂU {-}
+#Este no, đơn chức, mạch hở có công thức phân tử tổng quát là
+C. CnH2nO2 (n ≥ 2).	
+A. CnH2n+2O2 (n ≥ 2).	
+B. CnH2nO2 (n ≥ 1).	
+D. CnH2nO (n ≥ 2).
+#Khi thủy phân chất béo trong môi trường kiềm thì thu được muối của axit béo và
+B. glixerol.	
+A. phenol.	
+C. ancol đơn chức.	
+D. este đơn chức.
+#Phản ứng đặc trưng của este là
+B. phản ứng xà phòng hóa.
+A. phản ứng trùng hợp.	
+C. phản ứng cộng.	
+D. phản ứng este hóa.
+#Thủy phân este trong môi trường kiềm, đun nóng gọi là
+A. xà phòng hóa.	
+B. hiđro hóa.	
+C. tráng bạc.	
+D. hiđrat hoá.
+#Chất nào sau đây có thành phần chính là trieste của glixerol với axit béo?
+B. mỡ bò.	
+A. sợi bông.	
+C. bột gạo.	
+D. tơ tằm.
+#Loại dầu, mỡ nào dưới đây không phải là lipit?
+D. Dầu mazut.
+A. Mỡ động vật.	
+B. Dầu thực vật.	
+C. Dầu cá.	
+#Phản ứng este hóa giữa ancol etylic và axit axetic tạo thành este có tên gọi là
+B. etyl axetat.	
+A. metyl axetat.	
+C. axyl etylat.	
+D. axetyl etylat.
+#Chất nào sau đây không thuộc loại chất béo?
+B. Glixerol.	
+A. Tripanmitin.	
+C. Tristearin.	
+D. Triolein.
+#Khi thủy phân chất nào sau đây sẽ thu được glixerol?
+D. Chất béo.
+A. Este no, đơn chức.	
+B. Etyl axetat.	
+C. Muối.	
+#Khi thủy phân bất kỳ chất béo nào cũng thu được
+C. glixerol.	
+A. axit oleic.	
+B. axit panmitic.	
+D. axit stearic.
+#Thủy phân este trong môi trường kiềm, đun nóng gọi là
+A. xà phòng hóa.	
+B. hiđro hóa.	
+C. tráng bạc.	
+D. hiđrat hoá.
+#Chất nào sau đây có thành phần chính là trieste của glixerol với axit béo?
+B. mỡ bò.	
+A. sợi bông.	
+C. bột gạo.	
+D. tơ tằm.
+#Loại dầu, mỡ nào dưới đây không phải là lipit?
+D. Dầu mazut.
+A. Mỡ động vật.	
+B. Dầu thực vật.	
+C. Dầu cá.	
+#Loại dầu nào sau đây không phải là este của axit béo và glixerol?
+D. Dầu luyn
+A. Dầu lạc (đậu phộng)	
+B. Dầu vừng (mè)	
+C. Dầu dừa	
+#Phản ứng este hóa giữa ancol etylic và axit axetic tạo thành este có tên gọi là
+B. etyl axetat.	
+A. metyl axetat.	
+C. axyl etylat.	
+D. axetyl etylat.
+#Chất nào sau đây không thuộc loại chất béo?
+B. Glixerol.	
+A. Tripanmitin.	
+C. Tristearin.	
+D. Triolein.
+#Khi thủy phân chất nào sau đây sẽ thu được glixerol?
+D. Chất béo.
+A. Este no, đơn chức.	
+B. Etyl axetat.	
+C. Muối.	
+#Khi thủy phân bất kỳ chất béo nào cũng thu được
+C. glixerol.	
+A. axit oleic.	
+B. axit panmitic.	
+D. axit stearic.
+#Glucozơ không thuộc loại
+D. đisaccarit.
+A. hợp chất tạp chức.	
+B. cacbohiđrat.	
+C. monosaccarit.	
+#Xà phòng hóa CH3COOC2H5 trong dung dịch NaOH đun nóng, thu được muối có công thức là
+C. CH3COONa.	
+A. C2H5ONa.	
+B. C2H5COONa.	
+D. HCOONa.
+#Este nào sau đây tác dụng với dung dịch NaOH thu được CH3COONa?
+B. CH3COOC2H5.	
+A. HCOOCH3.	
+C. C2H5COOCH3.	
+D. HCOOCH3.
+#Chất nào sau đây không thủy phân trong môi trường axit?
+D. Glucozơ.
+A. Xenlulozơ.	
+B. Saccarozơ.	
+C. Tinh bột.	
+#Chất tham gia phản ứng tráng gương là
+A. fructozơ.	
+B. tinh bột.	
+C. saccarozơ.	
+D. xenlulozơ.
+#Thuốc thử để nhận biết tinh bột là
+A. I2.	
+B. Cu(OH)2.	
+C. AgNO3/NH3.	
+D. Br2.
+#Loại dầu nào sau đây không phải là este của axit béo và glixerol?
+D. Dầu luyn
+A. Dầu lạc (đậu phộng)	
+B. Dầu vừng (mè)	
+C. Dầu dừa	
+#Saccarozơ và glucozơ đều có phản ứng
+A. với Cu(OH)2 ở nhiệt độ thường, tạo thành dung dịch màu xanh lam.
+B. thuỷ phân trong môi trường axit.
+C. với dung dịch NaCl.
+D. với Cu(OH)2, đun nóng trong môi trường kiềm, tạo kết tủa đỏ gạch.
+#Ancol etylic, tinh bột, axit axetic, saccarozơ là những hợp chất hữu cơ được sử dụng thường xuyên trong đời sống hàng ngày, trong các hợp chất đó hợp chất không tan trong nước nguội là
+D. tinh bột.
+A. saccarozơ.	
+B. ancol etylic.	
+C. axit axetic.	
+#Xenlulozơ có cấu tạo mạch không phân nhánh, mỗi gốc C6H10O5 có 3 nhóm OH, nên có thể viết là
+A. [C6H7O2(OH)3]n.	
+B. [C6H5O2(OH)3]n.	
+C. [C6H7O3(OH)2]n.	
+D. [C6H8O2(OH)3]n.
+#Để chứng minh tính lưỡng tính của H2N-CH2-COOH (X), ta cho X tác dụng với
+A. HCl, NaOH.	
+B. NaCl, HCl.	
+C. NaOH, NH3.	
+D. HNO3, CH3COOH.
+#Dung dịch Ala-Gly phản ứng được với dung dịch nào sau đây?
+A. HCl.	
+B. KNO3.	
+C. NaCl.	
+D. NaNO3.
+#Các chất sau, chất nào không phản ứng với Cu(OH)2 ở điều kiện thường?
+C. Ala-Ala.	
+A. Lys-Gly-Val-Ala.	
+B. Glyxerol.	
+D. Saccarozơ.
+#Trong môi trường kiềm, protein có khả năng phản ứng màu biure với
+B. Cu(OH)2.	
+A. Mg(OH)2.	
+C. KCl.	
+D. NaCl.
+#Trong phân tử α-amino axit nào sau có 5 nguyên tử C?
+A. valin.	
+B. glyxin.	
+C. alanin.	
+D. lysin.
+#Amino axit X có phân tử khối bằng 75. Tên của X là
+C. glyxin.	
+A. lysin.	
+B. alanin.	
+D. valin.
+#Axit amino axetic (NH2-CH2-COOH) tác dụng được với dung dịch nào sau đây?
+C. HCl.	
+A. NaNO3.	
+B. NaCl.	
+D. Na2SO4.
+#Khi nấu canh cua thì thấy các mảng “riêu cua” nổi lên là do:
+A. Sự đông tụ của protein do nhiệt độ.	
+B. Phản ứng thủy phân của protein.
+C. Phản ứng màu của protein.	
+D. Sự đông tụ của lipit.
+#Thuốc thử được dùng để phân biệt Gly-Ala-Gly với Gly-Ala là
+A. Cu(OH)2 trong môi trường kiềm.	
+B. dung dịch NaCl.
+C. dung dịch HCl.	
+D. dung dịch NaOH.
+#Dung dịch alanin (axit α-aminopropionic) phản ứng được với dung dịch nào sau đây?
+A. HCl.	
+B. KNO3.	
+C. NaCl.	
+D. NaNO3.
+#Dung dịch alanin (axit α-aminopropionic) phản ứng được với dung dịch nào sau đây?
+A. NaOH.	
+B. NaNO3.	
+C. KCl.	
+D. KNO3.
+#Để khử mùi tanh của cá (gây ra do một số amin) nên rửa cá với?
+C. giấm ăn.	
+A. nước muối.	
+B. nước.	
+D. cồn.
+#Sản phẩm cuối cùng của quá trình thủy phân các protein đơn giản nhờ xúc tác thích hợp là
+B. α-amino axit.	
+A. axit cacboxylic.	
+C. este.	
+D. β-amino axit.
+#Biết rằng mùi tanh của cá (đặc biệt cá mè) là hỗn hợp các amin (nhiều nhất là trimetylamin) và một số chất khác. Để khử mùi tanh của cá trước khi nấu ta có thể dùng dung dịch nào sau đây?
+D. Giấm ăn.
+A. Xút.	
+B. Soda.	
+C. Nước vôi trong.	
+#Số liên kết peptit trong phân tử: Gly–Ala–Ala–Gly–Glu là
+(A)	2
+(B)	3
+(C)	4
+(D)	5
+/C
+#Amin tồn tại ở trạng thái lỏng trong điều kiện thường là
+B. anilin.	
+A. metylamin.	
+C. etylamin.	
+D. đimetylamin.
+
+#Chất có phản ứng màu biure là
+C. Protein.	
+A. Tinh bột.	
+B. Saccarozơ.	
+D. Chất béo.
+#Polime thiên nhiên X được sinh ra trong quá trình quang hợp của cây xanh. Ở nhiệt độ thường, X tạo với dung dịch iot hợp chất có màu xanh tím. Polime X là
+A. tinh bột.	
+B. saccarozơ.	
+C. glicogen.	
+D. xenlulozơ.
+#Hợp chất nào không phải amino axit?
+C. CH3-CH2-CO-NH2.	
+A. H2N-CH2-COOH.	
+B. NH2-CH2-CH2-COOH.
+D. HOOC-CH(NH2)-CH2-COOH.
+#Dung dịch nào làm xanh quì tím?
+B. H2NCH2CH(NH2)COOH.
+A. CH3CH(NH2)COOH.	
+C. ClH3NCH2COOH.	
+D. HOOCCH2CH(NH2)COOH.
+#Hợp chất nào dưới đây thuộc loại amino axit?
+A. H2NCH2COOH.	
+B. C2H5NH2.	
+C. HCOONH4.	
+D. CH3COOC2H5.
+#Dung dịch chất nào sau đây không làm đổi màu quỳ tím?
+C. Glyxin.	
+A. Lysin.	
+B. Metylamin.	
+D. Axit glutamic.
+@VẬN DỤNG {-}
+#Số đồng phân este ứng với công thức phân tử C3H6O2 là
+(A)	2
+(B)	3
+(C)	4
+(D)	5
+/A
+#Số đồng phân este ứng với công thức phân tử C4H8O2 là
+(A)	4
+(B)	5
+(C)	6
+(D)	7
+/A
+#Nhận định đúng về chất béo là
+D. Chất béo là trieste của glixerol và các axit béo no hoặc không no.
+A. Ở nhiệt độ thường, chất béo ở trạng thái rắn, nhẹ hơn nước và không tan trong nước.
+B. Các chất (C17H33COO)3C3H5, (C15H31COO)3C3H5 là chất béo dạng lỏng ở nhiệt độ thường.
+C. Chất béo và mỡ bôi trơn có cùng thành phần nguyên tố.
+#X và Y là hai cacbohiđrat. X là chất rắn, ở dạng bột vô định hình, màu trắng, không tan trong nước lạnh. Y là loại đường phổ biến nhất, có trong nhiều loài thực vật, có nhiều nhất trong cây mía, củ cải đường và hoa thốt nốt. Tên gọi của X, Y lần lượt là:
+D. tinh bột và saccarozơ.
+A. saccarozơ và fructozơ.	
+B. xenlulozơ và saccarozơ.
+C. tinh bột và glucozơ.	
+#Phần trăm khối lượng nitơ trong phân tử anilin (C6H5NH2) bằng
+C. 15,05%.	
+A. 18,67%.	
+B. 12,96%.	
+D. 15,73%.
+#Cho các chất: anilin, saccarozơ, glyxin, axit glutamic. Số chất tác dụng được với NaOH trong dung dịch là
+(A)	1
+(B)	2
+(C)	3
+(D)	4
+/B
+
+
+#Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau:
+Mẫu thử	Thuốc thử	Hiện tượng
+X	Quỳ tím	Chuyển màu xanh
+Y	Dung dịch I2	Có màu xanh tím
+Z	Cu(OH)2	Có màu tím
+T	Nước brom	Kết tủa trắng
+Các dung dịch X, Y, Z, T lần lượt là:
+A. Etylamin, hồ tinh bột, lòng trắng trứng, anilin.	
+B. Anilin, etylamin, lòng trắng trứng, hồ tinh bột.
+C. Etylam, hồ tinh bột, anilin, lòng trắng trứng.	
+D. Etylamin, lòng trắng trứng, hồ tinh bột, anilin.
+#Xà phòng hoá 8,8 gam etyl axetat (CH3COOC2H5) bằng một lượng vừa đủ dung dịch NaOH. Sau khi phản ứng xảy ra hoàn toàn cô cạn dung dịch thu được muối khan có khối lượng là
+C. 8,2 gam.	
+A. 10,4 gam.	
+B. 8,56 gam.	
+D. 3,28 gam.
+#Xà phòng hoá 13,2 gam etyl axetat (CH3COOC2H5) bằng một lượng vừa đủ dung dịch NaOH. Sau khi phản ứng xảy ra hoàn toàn cô cạn dung dịch thu được muối khan có khối lượng là
+B. 12,3 gam.	
+A. 10,4 gam.	
+C. 8,2 gam.	
+D. 3,28 gam.
+#Xà phòng hoá 17,6 gam etyl axetat (CH3COOC2H5) bằng một lượng vừa đủ dung dịch NaOH. Sau khi phản ứng xảy ra hoàn toàn cô cạn dung dịch thu được muối khan có khối lượng là
+C. 16,4 gam.	
+A. 10,4 gam.	
+B. 8,56 gam.	
+D. 3,28 gam.
+#Cho m gam glucozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được 3,24 gam Ag. Giá trị của m là
+D. 2,70.
+A. 1,35.	
+B. 1,80.	
+C. 5,40.	
+#Cho m gam glucozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được 6,48 gam Ag. Giá trị của m là
+C. 5,40.	
+A. 1,35.	
+B. 1,80.	
+D. 2,70.
+#Cho m gam glucozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được 16,2 gam Ag. Giá trị của m là
+D. 13,5.
+A. 1,35.	
+B. 1,80.	
+C. 5,40.	
+#Cho 0,9 gam glucozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được m gam Ag. Giá trị của m là
+B. 1,08.	
+A. 0,54.	
+C. 2,16.	
+D. 1,62.
+#Cho 1,8 gam glucozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được m gam Ag. Giá trị của m là
+C. 2,16.	
+A. 0,54.	
+B. 1,08.	
+D. 1,62.
+#Cho 27 gam glucozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được m gam Ag. Giá trị của m là
+B. 32,4.	
+A. 54,0.	
+C. 21,6.	
+D. 16,2.
+#Cho 5,4 gam glucozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được m gam Ag. Giá trị của m là
+B. 6,48.	
+A. 3,24.	
+C. 2,16.	
+D. 1,62.
+#Cho m gam fructozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được 4,32 gam Ag. Giá trị của m là
+B. 3,6.	
+A. 7,2.	
+C. 1,8.	
+D. 2,4.
+#Cho m gam fructozơ (C6H12O6) tác dụng hết với lượng dư dung dịch AgNO3 trong NH3, thu được 8,64 gam Ag. Giá trị của m là
+A. 7,2.	
+B. 3,6.	
+C. 1,8.	
+D. 2,4.
+#Thể tích khí CO2 thu được khi đốt cháy hoàn toàn 0,1 mol C3H6O2 là
+A. 6,72 lít 			
+B. 4,48 lít		
+C. 3,36 lít.		
+D.  8,96 lít. 
+#Xà phòng hoá 7,4 gam etyl axetat (CH3COOCH3) bằng một lượng vừa đủ dung dịch NaOH. Sau khi phản ứng xảy ra hoàn toàn cô cạn dung dịch thu được muối khan có khối lượng là
+C. 8,2 gam.	
+A. 10,4 gam.	
+B. 8,56 gam.	
+D. 3,28 gam.
+#Thể tích khí CO2 thu được khi đốt cháy hoàn toàn 0,15 mol C3H6O2 là
+B. 10,08 lít		
+A. 6,72 lít 			
+C. 3,36 lít.		
+D.  8,96 lít. 
+#Thể tích khí CO2 thu được khi đốt cháy hoàn toàn 0,02 mol C3H6O2 là
+D.  1,344 lít. 
+A. 0,672 lít 			
+B. 0,448 lít		
+C. 0,336 lít.		
+#Xà phòng hoá 1,48 gam etyl axetat (CH3COOCH3) bằng một lượng vừa đủ dung dịch NaOH. Sau khi phản ứng xảy ra hoàn toàn cô cạn dung dịch thu được muối khan có khối lượng là
+C. 1,64 gam.	
+A. 1,04 gam.	
+B. 0,64 gam.	
+D. 3,28 gam.
+#Xà phòng hoá 2,22 gam etyl axetat (CH3COOCH3) bằng một lượng vừa đủ dung dịch NaOH. Sau khi phản ứng xảy ra hoàn toàn cô cạn dung dịch thu được muối khan có khối lượng là
+B. 2,46 gam.	
+A. 10,4 gam.	
+C. 8,2 gam.	
+D. 3,28 gam.
+#Để phản ứng hết 4,65 gam metyl amin (CH3NH2) cần V ml dung dịch HCl 1M. Tính giá trị V.
+A. 150 ml.	
+B. 200 ml	
+C. 300 ml	
+D. 450ml 
+#Để phản ứng hết 7,75 gam metyl amin (CH3NH2) cần V ml dung dịch HCl 1M. Tính giá trị V.
+B. 250 ml	
+A. 150 ml.	
+C. 300 ml	
+D. 450ml 
+#Cho 9,85 gam hỗn hợp gồm hai amin đơn chức tác dụng vừa đủ với V ml dung dịch HCl 1M, thu được dung dịch chứa 18,975 gam hỗn hợp muối. Giá trị của V là
+D. 250.
+A. 300.	
+B. 450.	
+C. 400.	
+#Cho 7,75 gam một amin đơn chức tác dụng vừa đủ với V ml dung dịch HCl 1M, thu được dung dịch chứa 16,875 gam muối. Giá trị của V là
+D. 250.
+A. 300.	
+B. 450.	
+C. 400.	
+@VẬN DỤNG CAO {-}
+#Đun nóng 0,2 mol este đơn chức X với 135 ml dung dịch NaOH 2M. Sau khi phản ứng xảy ra hoàn toàn, cô cạn dung dịch thu được ancol etylic và 19,2 gam chất rắn khan. Công thức cấu tạo của X là
+D. CH3COOC2H5.
+A. C2H3COOC2H5.	
+B. C2H5COOCH3.	
+C. C2H5COOC2H5.	
+#Muốn thuỷ phân 5,6 gam hỗn hợp etyl axetat và etyl fomat cần 25,96 ml NaOH 10% (d = 1,08 g/ml). Thành phần phần trăm khối lượng của etyl axetat trong hỗn hợp là
+A. 47,14%.	
+B. 52,16%.	
+C. 36,18%.	
+D. 50,20%.
+#Xà phòng hoá 8,8 gam etyl axetat bằng 200 ml dung dịch NaOH 0,2M. Sau khi phản ứng xảy ra hoàn toàn cô cạn dung dịch thu được chất rắn khan có khối lượng là
+D. 3,28 gam.
+A. 10,4 gam.	
+B. 8,56 gam.	
+C. 8,2 gam.	
+#Đốt cháy hoàn toàn m gam triglixerit cần vừa đủ 3,08 mol O2, thu được CO2 và 2 mol H2O. Cho m gam X tác dụng với dung dịch NaOH vừa đủ, thu được glixerol và 35,36 gam muối. Mặt khác, m gam X tác dụng được tối đa a mol Br2 trong dung dịch. Giá trị của a là
+A. 0,12.	
+B. 0,10.	
+C. 0,04.	
+D. 0,06.
+#Thủy phân hoàn toàn a mol triglixerit X trong dung dịch NaOH vừa đủ, thu được glixerol và m gam hỗn hợp muối. Đốt cháy hoàn toàn a mol X thu được 1,375 mol CO2 và 1,275 mol H2O. Mặt khác, a mol X tác dụng tối đa với 0,05 mol Br2 trong dung dịch. Giá trị của m là
+D. 21,45.
+A. 20,15.	
+B. 20,60.	
+C. 23,35.	
+#Cho 4,48 gam hỗn hợp gồm CH3COOC2H5 và CH3COOC6H5 (có tỉ lệ mol 1:1) tác dụng với 800 ml dung dịch NaOH 0,1M thu được dung dịch X. Cô cạn dung dịch X thì khối lượng chất rắn thu được là
+C. 6,40 gam.	
+A. 4,88 gam.	
+B. 5,6 gam.	
+D. 3,28 gam.
+#Este X có công thức phân tử C4H8O2. Cho 2,2 gam X vào 20 gam dung dịch NaOH 8% đun nóng, sau khi phản ứng xảy ra hoàn toàn, thu được dung dịch Y. Cô cạn Y thu được 3 gam chất rắn khan. Công thức cấu tạo của X là
+D. CH3CH2COOCH3.
+A. HCOOCH2CH2CH3.	
+B. HCOOCH(CH3)2.	
+C. CH3COOCH2CH3.	
+#Đốt cháy hoàn toàn m gam hỗn hợp các este no, đơn chức, mạch hở. Sản phẩm cháy được dẫn vào bình đựng dung dịch nước vôi trong dư thấy khối lượng bình tăng 6,2 gam. Số mol H2O sinh ra và khối lượng kết tủa tạo ra là
+B. 0,1 mol; 10 gam.	
+A. 0,1 mol; 12 gam.	
+C. 0,01 mol; 10 gam.	
+D. 0,01 mol; 1,2 gam.
+#Đốt cháy hoàn toàn 0,11 gam một este X (tạo nên từ một axit cacboxylic đơn chức và một ancol đơn chức) thu được 0,22 gam CO2 và 0,09 gam H2O. Số este đồng phân của X là
+D. 4.
+A. 2.	
+B. 5.	
+C. 6.	
+#Khối lượng glucozơ cần dùng để điều chế 1 lít dung dịch ancol (rượu) etylic 40o (khối lượng riêng 0,8 g/ml) với hiệu suất 80% là
+B. 782,61 gam.	
+A. 626,09 gam.	
+C. 305,27 gam.	
+D. 1565,22 gam.
+#Từ m gam tinh bột điều chế được 575 ml rượu etylic 10o (khối lượng riêng của rượu nguyên chất là 0,8 gam/ml) với hiệu suất cả quá trình là 75%, giá trị của m là
+B. 108 gam.	
+A. 60,75 gam.	
+C. 75,9375 gam.	
+D. 135 gam.
+#Sử dụng 1 tấn khoai (chứa 20% tinh bột) để điều chế glucozơ. Tính khối lượng glucozơ thu được, biết hiệu suất phản ứng đạt 70%.
+B. 155,56 kg.	
+A. 162 kg.	
+C. 143,33 kg.	
+D. 133,33 kg.
+#Xenlulozơ trinitrat là chất dễ cháy, nổ mạnh. Muốn điều chế 14,85 kg xenlulozơ trinitrat từ xenlulozơ và axit nitric với hiệu suất 90% thì thể tích HNO3 67% (d = 1,52 g/ml) cần dùng là bao nhiêu lít?
+C. 10,31 lít.	
+A. 2,39 lít.	
+B. 7,91 lít.	
+D. 1,49 lít.
+#Cho 0,15 mol axit glutamic và 0,1 mol lysin vào 175 ml dung dịch HCl 2M, thu được dung dịch X. Cho NaOH dư vào dung dịch X. Sau khi các phản ứng xảy ra hoàn toàn, số mol NaOH đã phản ứng là:
+B. 0,75.	
+A. 0,55.	
+C. 0,50.	
+D. 0,65.
+#Thủy phân hoàn toàn 21,7 gam tripeptit Gly-Ala-Ala bằng dung dịch NaOH vừa đủ, thu được dung dịch X. Cô cạn toàn bộ dung dịch X thu được m gam muối khan. Giá trị của m là
+C. 31,9.	
+A. 28,3.	
+B. 18,3.	
+D. 16,4.
+#Cho 0,1 mol lysin tác dụng với 100 ml dung dịch HCl 1M, thu được dung dịch X. Dung dịch X tác dụng với 400 ml NaOH 1M, đến phản ứng hoàn toàn thu được dung dịch Y. Cô cạn Y thu được m gam chất rắn khan. Giá trị của m là
+A. 30,65.	
+B. 22,65.	
+C. 34,25.	
+D. 26,25.
+#Cho 0,01 mol amino axit X tác dụng vừa đủ với 100 ml dung dịch HCl 0,20M. Mặt khác, 0,04 mol X tác dụng vừa đủ với 20 gam dung dịch NaOH 8% thu được 5,60 gam muối khan. Công thức của X là
+D. (H2N)2C3H5COOH.
+A. H2NC3H5(COOH)2.	
+B. H2NC3H6COOH.	
+C. (H2N)2C2H3COOH.	
+#Cho 0,02 mol glyxin tác dụng với 300 ml dung dịch HCl 1M, thu được dung dịch X. Để tác dụng hết với các chất trong X cần vừa đủ V lít dung dịch NaOH 1M được dung dịch Y. Cô cạn cẩn thận Y được m gam chất rắn khan. Giá trị V và m là
+D. 0,32 và 19,49.
+A. 0,32 và 23,45.	
+B. 0,02 và 19,05.	
+C. 0,32 và 19,05.	
+#Thủy phân hoàn toàn m gam tripeptit Gly-Ala-Ala bằng dung dịch NaOH vừa đủ, thu được dung dịch X. Cô cạn toàn bộ dung dịch X thu được 3,19 gam muối khan. Giá trị của m là
+C. 2,17.	
+A. 2,83.	
+B. 1,83.	
+D. 1,64.
+#Đốt cháy hoàn toàn hỗn hợp hai amin no, đơn chức, kế tiếp nhau trong dãy đồng đẳng, thu được 1,568 lít khí CO2 (đktc) và 1,8 gam H2O. Công thức phân tử của hai amin đó là
+B. C3H9N và C4H11N.	
+A. C2H7N và C3H9N.	
+C. CH5N và C2H7N.	
+D. CH5N và C3H9N.

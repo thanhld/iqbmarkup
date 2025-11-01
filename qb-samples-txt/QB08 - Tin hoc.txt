@@ -1,0 +1,110 @@
+$Thông tin và xử lý thông tin {1}
+#Chọn định nghĩa chính xác nhất về thông tin
+A.Là tất cả những gì mang lại hiểu biết
+B.Là tin tức thu nhận được qua các phương tiện truyền thông
+C.Là dữ liệu của máy tính
+D.Là các tín hiệu vật lý
+
+#Bít là gì
+A.Là đơn vị đo thông tin
+B.Một số có 1 chữ số
+C.Đơn vị đo khối lượng kiến thức
+D.Là 1 chữ số nhị phân
+
+#Trong những điều sau đây nói về về Kilobyte (KB), điều nào đúng
+A.Đơn vị đo lượng tin lớn hơn 1000 byte
+B.Đơn vị đo lượng tin bằng 1000 byte
+C.Đơn vị đo lượng tin nhỏ hơn 1000 byte
+D.Đơn vị đo dung lượng nhớ tính theo 1000 ký tự trong một bộ mã nào đó.
+
+$Thông tin và xử lý thông tin {2}
+#Trong định nghĩa CNTT trong bộ luật CNTT của Việt nam có nói: "Công nghệ  thông tin là tập hợp các các phương pháp khoa học, công nghệ và công cụ kỹ thuật hiện đại để sản xuất, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông tin số." Bạn hiểu thế nào là thông tin số
+A.Là các thông tin được mã hoá dưới dạng số trong máy tính điện tử 
+B.Là các thông tin có bản chất là số 
+C.Là thông tin có thể mã hoá dưới dạng số dấu phảy động
+D.Là thông tin có thể mã hoá dưới dạng số dấu phảy tĩnh
+
+#Nghị  quyết 49-CP trong chương trình quốc gia về Công nghệ Thông tin Thông tin từ 1996  tới 2000 có viết: "Công nghệ thông tin được phát triển trên nền tảng phát triển của các công nghệ Tin học - Điện tử - Viễn thông và Tự động hoá". Lý do nào xác đáng nhất để tự động hóa được xem như nền tảng của CNTT
+A.Tin học về bản chất là tự động hóa xử lý thông tin, phần lớn các hệ thống tự động  ngày nay đều dựa trên xử lý thông tin
+B.Ngày nay, tự động hóa đã thay đổi hẳn so với trước đây do có yếu tố máy tính
+C.Tự động hóa là một loại hình ứng dụng máy tính
+D.Công nghệ thông tin không thể phát triển được nếu không phát triển tự động hóa
+
+#Trong những điều sau đây nói về thông tin, điều nào sai
+A.Mục đích của xử lý thông tin là làm tăng lượng tin
+B.Thông tin có thể tồn tại dưới nhiều hình thức vật lý khác nhau 
+C.Thông tin có thể mã hoá ở nhiều dạng khác nhau
+D.Mục đích của xử lý thông tin là tri thức  
+
+
+
+$Thông tin và xử lý thông tin {3}
+#Biểu diễn nhị phân của số thập phân 123 là:
+A.1111011
+B.11010110
+C.10111011
+D.1111010
+
+#Biểu diễn nào là biểu diễn đúng của số 7E9 trong hệ nhị phân
+A.11111101001
+B.1110100111
+C.11111011001
+D.011111111101
+
+#Kết quả nào là đúng trong  phép cộng hai số trong hệ đếm cơ số 16 bít 18E3 với AFC2
+A.C8A5    
+B.CF75    
+C.AD45    
+D.F2D5
+
+
+
+
+
+
+$Máy tính điện tử {1}
+#RAM là viết tắt của Random Access Memory. Khái niệm này để chỉ 
+A.Bộ nhớ trong theo công nghệ bán dẫn, có thể ghi, đọc trực tiếp theo địa chỉ  
+B.Bộ nhớ bán dẫn nói chung
+C.Bộ nhớ theo công nghệ bán dẫn có thể đọc, ghi được, thông tin có thể lưu trữ được lâu dài 
+D.Tất cả các loại bộ nhớ khác với loại chỉ đọc (read only memory - ROM)
+
+#Tốc độ đồng hồ của CPU đuợc tính theo
+A.Số chu kỳ dao động của dòng điện và các bội của nó 
+B.Số phép tính thực hiện được trong 1 giây   
+C.byte và các bội của nó
+D.Tốc độ trao đổi thông tin với bộ nhớ trong
+
+$Máy tính điện tử {2}
+#Độ phân giải của màn hình thể hiện bởi 
+A.Số điểm ảnh có thể thể hiện được 
+B.Kích thước đo bằng inch của màn hình
+C.Số lượng sắc màu có thể thể hiện được
+D.Tần số làm tươi ảnh của màn hình
+
+#Lý do dùng bộ nhớ ngoài
+(A)Khi khối lượng dữ liệu lớn
+(B)Khi phải lưu trữ lâu dài
+(C) Cả A và B đúng
+(D) Cả A và B sai
+/C
+
+
+
+
+$Máy tính điện tử {3}
+#Nguyên lý Von Neumann nói rằng
+(A) Mọi dữ liệu (chữ, số, âm thanh, hình ảnh ...) đều phải được mã hoá dưới dạng nhị phân
+(B)Máy tính hoạt động theo chương trình nạp sẵn trong bộ nhớ
+(C)Máy tính truy nhập dữ liệu theo địa chỉ 
+(D) Cả B và D đúng
+/D
+
+
+#Pipeline là kiến trúc cho phép
+A.Song song hoá các công đoạn trong xử lý nhiều lệnh đồng thời
+B.Có nhiều bộ xử lý trên cùng một vi mạch
+C.Tăng cường bộ nhớ đệm (cache)  trong bộ xử lý để có thể lưu trữ nhiều lệnh chờ xử lý
+D.Kết nối nhiều máy tính với nhau
+
+

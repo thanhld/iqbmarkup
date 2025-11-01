@@ -1,0 +1,411 @@
+~READING {.}
+@[1]READING PASSAGE 1 (13 points)
+##
+You should spend about 20 minutes on Questions {fromq}-{toq} which are based on Reading Passage 1 below.
+Urban farming
+In Paris, urban farmers are trying a soil-free approach to agriculture that uses less space and fewer resources. Could it help cities face the threats to our food supplies?
+
+On top of a striking new exhibition hall in southern Paris, the world’s largest urban rooftop farm has started to bear fruit. Strawberries that are small, intensely flavoured and resplendently red sprout abundantly from large plastic tubes. Peer inside and you see the tubes are completely hollow, the roots of dozens of strawberry plants dangling down inside them. From identical vertical tubes nearby burst row upon row of lettuces; near those are aromatic herbs, such as basil, sage and peppermint. Opposite, in narrow, horizontal trays packed not with soil but with coconut fibre, grow cherry tomatoes, shiny aubergines and brightly coloured chards.
+
+Pascal Hardy, an engineer and sustainable development consultant, began experimenting with vertical farming and aeroponic growing towers- as the soil-free plastic tubes are known - on his Paris apartment block roof five years ago. The urban rooftop space above the exhibition hall is somewhat bigger: 14,000 square metres and almost exactly the size of a couple of football pitches. Already, the team of young urban farmers who tend it have picked, in one day, 3,000 lettuces and 150 punnets of strawberries. When the remaining two thirds of the vast open area are in production, 20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day. ‘We’re not ever, obviously, going to feed the whole city this way,’ cautions Hardy. ‘In the urban environment you’re working with very significant practical constraints, clearly, on what you can do and where. But if enough unused space can be developed like this, there’s no reason why you shouldn’t eventually target maybe between 5% and 10% of consumption.’
+
+Perhaps most significantly, however, this is a real-life showcase for the work of Hardy’s flourishing urban agriculture consultancy, Agripolis, which is currently fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm. ‘The method’s advantages are many,’ he says. ‘First, I don’t much like the fact that most of the fruit and vegetables we eat have been treated with something like 17 different pesticides, or that the intensive farming techniques that produced them are such huge generators of greenhouse gases. I don’t much like the fact, either, that they’ve travelled an average of 2,000 refrigerated kilometres to my plate, that their quality is so poor, because the varieties are selected for their capacity to withstand such substantial journeys, or that 80% of the price I pay goes to wholesalers and transport companies, not the producers.’
+
+Produce grown using this soil-free method, on the other hand- which relies solely on a small quantity of water, enriched with organic nutrients, pumped around a closed circuit of pipes, towers and trays- is ‘produced up here, and sold locally, just down there. It barely travels at all,’ Hardy says. ‘You can select crop varieties for their flavour, not their resistance to the transport and storage chain, and you can pick them when they’re really at their best, and not before.’ No soil is exhausted, and the water that gently showers the plants’ roots every 12 minutes is recycled, so the method uses 90% less water than a classic intensive farm for the same yield.
+
+Urban farming is not, of course, a new phenomenon. Inner-city agriculture is booming from Shanghai to Detroit and Tokyo to Bangkok. Strawberries are being grown in disused shipping containers, mushrooms in underground carparks. Aeroponic farming, he says, is ‘virtuous’. The equipment weighs little, can be installed on almost any flat surface and is cheap to buy: roughly 100 to 150 per square metre. It is cheap to run, too, consuming a tiny fraction of the electricity used by some techniques.
+
+Produce grown this way typically sells at prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers. There are limits to what farmers can grow this way, of course, and much of the produce is suited to the summer months. ‘Root vegetables we cannot do, at least not yet,’ he says. ‘Radishes are OK, but carrots, potatoes, that kind of thing- the roots are simply too long. Fruit trees are obviously not an option. And beans tend to take up a lot of space for not much return.’ Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture that is bringing food production closer to our lives.
+//
+Question 1. Questions {fromsq}-{tosq}
+Complete the sentences below.
+Choose NO MORE THAN TWO WORDS AND/ OR A NUMBER from the passage for each answer.
+Write your answers in boxes {fromsq}-{tosq} on your answer sheet.
+Urban farming in Paris
+/s
+Vertical tubes are used to grow strawberries, (.........) and herbs.
+/
+{ lettuces }
+Question 2.   There will eventually be a daily harvest of as much as (.........) in weight of fruit and vegetables.
+/
+{1,000 kg ; 1,000kg ;  1.000 kg ; 1.000kg ; 1000 kg ; 1000kg }
+
+Question 3.   It may be possible that the farm’s produce will account for as much as 10% of the city’s (.........) overall.
+/
+{ consumption ; food consumption }
+
+Question 4. Questions {fromsq}-{tosq}
+Complete the table below.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes {fromsq}-{tosq} on your answer sheet.
+Intensive farming versus aeroponic urban farming
+ 	Growth	Selection	Sale
+Intensive farming	•	wide range of 4............... used
+•	techniques pollute air	•	quality not good
+•	varieties of fruit and vegetables chosen that can survive long 5...............	•	6............... receive very little of overall income
+Aeroponic urban farming	•	no soil used
+•	nutrients added to water, which is recycled	•	produce chosen because of its 7...............	 
+/s
+-
+/
+{ pesticides }
+Question 5. - 
+/
+{ journeys }
+Question 6. - 
+/
+{ producers }
+
+Question 7. - 
+/
+{ flavour ; flavor }
+
+Question 8. Questions {fromsq}-{tosq}
+Do the following statements agree with the information given in Reading Passage 1?
+In boxes {fromsq}-{tosq} on your answer sheet, write
+TRUE               if the statement agrees with the information
+FALSE              if the statement contradicts the information
+NOT GIVEN     if there is no information on this
+/s
+Urban farming can take place above or below ground.
+*TRUE
+^-
+*FALSE
+*NOT GIVEN
+/1
+Question 9.   Some of the equipment used in aeroponic farming can be made by hand.
+*TRUE
+*FALSE
+*NOT GIVEN
+^-
+/1
+
+Question 10.   Urban farming relies more on electricity than some other types of farming.
+*TRUE
+*FALSE
+^-
+*NOT GIVEN
+/1
+
+Question 11.   Fruit and vegetables grown on an aeroponic urban farm are cheaper than traditionally grown organic produce.
+*TRUE
+^-
+*FALSE
+*NOT GIVEN
+/1
+
+Question 12.   Most produce can be grown on an aeroponic urban farm at any time of the year.
+*TRUE
+*FALSE
+^-
+*NOT GIVEN
+/1
+
+Question 13.   Beans take longer to grow on an urban farm than other vegetables.
+*TRUE
+*FALSE
+*NOT GIVEN
+^-
+/1
+
+/#
+
+@READING PASSAGE 2 (13 points)
+##
+You should spend about 20 minutes on Questions {fromq}-{toq} which are based on Reading Passage 2 below. 
+Forest management in Pennsylvania, USA
+How managing low-quality wood (also known as low-use wood) for bioenergy can encourage sustainable forest management
+A
+A tree’s ‘value’ depends on several factors including its species, size, form, condition, quality, function, and accessibility, and depends on the management goals for a given forest. The same tree can be valued very differently by each person who looks at it. A large, straight black cherry tree has high value as timber to be cut into logs or made into furniture, but for a landowner more interested in wildlife habitat, the real value of that stem (or trunk) may be the food it provides to animals. Likewise, if the tree suffers from black knot disease, its value for timber decreases, but to a woodworker interested in making bowls, it brings an opportunity for a unique and beautiful piece of art.
+B
+In the past, Pennsylvania landowners were solely interested in the value of their trees as high-quality timber. The norm was to remove the stems of highest quality and leave behind poorly formed trees that were not as well suited to the site where they grew. This practice, called ‘high-grading’, has left a legacy of ‘low-use wood’ in the forests. Some people even call these ‘junk trees’, and they are abundant in Pennsylvania. These trees have lower economic value for traditional timber markets, compete for growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand leaving it more vulnerable to poor weather and disease. Management that specifically targets low-use wood can help landowners manage these forest health issues, and wood energy markets help promote this.
+C
+Wood energy markets can accept less expensive wood material of lower quality than would be suitable for traditional timber markets. Most wood used for energy in Pennsylvania is used to produce heat or electricity through combustion. Many schools and hospitals use wood boiler systems to heat and power their facilities, many homes are primarily heated with wood, and some coal plants incorporate wood into their coal streams to produce electricity. Wood can also be gasified for electrical generation and can even be made into liquid fuels like ethanol and gasoline for lorries and cars. All these products are made primarily from low-use wood. Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly or solely on the use of wood for those markets.
+D
+One such approach is called a Timber Stand Improvement (TSI) Cut. In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the highest-valued stems that remain. Removing invasive plants might be another primary goal of a TSI Cut. The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife; they have a better chance to regenerate in a less crowded environment. TSI Cuts can be tailored to one farmer’s specific management goals for his or her land.
+E
+Another approach that might yield a high amount of low-use wood is a Salvage Cut. With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhomed beetle, emerald ash borer, and gypsy moth, to name just a few, it is important to remember that those working in the forests can help ease these issues through cutting procedures. These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem. They leave vigorous trees that have stayed healthy enough to survive the outbreak.
+F
+A Shelterwood Cut, which only takes place in a mature forest that has already been thinned several times, involves removing all the mature trees when other seedlings have become established. This then allows the forester to decide which tree species are regenerated. It leaves a young forest where all trees are at a similar point in their growth. It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more.
+G
+Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood. However, it is important to remember that some retention of what many would classify as low-use wood is very important. The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil. In addition, trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals. They help control problem insects and increase the health and resilience of the forest. It is also important to remember that not all small trees are low-use. For example, many species like hawthorn provide food for wildlife. Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity.
+—-
+*Stand - An area covered with trees that have common features (e.g. size)
+//
+Question 14. Questions 14-18
+Reading Passage 2 has seven paragraphs, A-G.
+Which paragraph contains the following information?
+Write the correct letter, A-G, in boxes 14-18 on your answer sheet.
+NB   You may use any letter more than once.
+/s
+bad outcomes for a forest when people focus only on its financial reward
+*A
+*B
+^-
+*C
+*D
+*E
+*F
+*G
+/1
+Question 15.   reference to the aspects of any tree that contribute to its worth
+*A
+^-
+*B
+*C
+*D
+*E
+*F
+*G
+/1
+
+Question 16.   mention of the potential use of wood to help run vehicles
+*A
+*B
+*C
+^-
+*D
+*E
+*F
+*G
+/1
+
+Question 17.   examples of insects that attack trees
+*A
+*B
+*C
+*D
+*E
+^-
+*F
+*G
+/1
+
+Question 18.   an alternative name for trees that produce low-use wood
+*A
+*B
+^-
+*C
+*D
+*E
+*F
+*G
+/1
+
+Question 19. Questions 19-21
+Look at the following purposes (Questions 18-21) and the list of timber cuts below.
+Match each purpose with the correct timber cut, A, B or C.
+Write the correct letter, A, B or C, in boxes 19-21 on your answer sheet.
+NB   You may use any letter more than once.
+
+List of Timber Cuts
+A     a TSI Cut
+B     a Salvage Cut
+C     a Shelterwood Cut
+
+/s
+to remove trees that are diseased
+*A
+*B
+^-
+*C
+/1
+Question 20.   to generate income across a number of years
+*A
+*B
+*C
+^-
+/1
+
+Question 21.   to create a forest whose trees are close in age
+*A
+*B
+*C
+^-
+/1
+
+
+Question 22. Questions 22-26
+Complete the sentences below.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 22-26 on your answer sheet.
+/s
+Some dead wood is removed to avoid the possibility of ................... .
+/
+{ fire }
+Question 23.   The ................... from the tops of cut trees can help improve soil quality.
+/
+{ nutrients }
+
+Question 24.   Some damaged trees should be left, as their ................... provide habitats for a range of creatures.
+/
+{ cavities }
+
+Question 25.   Some trees that are small, such as ..................., are a source of food for animals and insects.
+/
+{ hawthorn }
+
+Question 26.   Any trees that are ................... should be left to grow, as they add to the variety of species in the forest.
+/
+{ rare }
+
+/#
+
+@READING PASSAGE 3 (14 points)
+##
+You should spend about 20 minutes on Questions 27-40 which are based on Reading Passage 3 below.
+Solving Earth’s Space Junk Problem
+Satellites, broken rocket parts, and debris from collisions are creating serious dangers in Earth’s orbit. Scientists are looking for ways to reduce these risks.
+A
+Last year, over 400 satellites were launched by businesses, governments, and individuals. This is more than four times the average from the last ten years. The number could rise quickly, as many space companies plan to send thousands more satellites into space soon.
+But having too many satellites increases the risk of accidents. In 2009, a U.S. satellite crashed into an old Russian satellite (Cosmos-2251). This created thousands of pieces of debris, which now pose risks to other satellites in low Earth orbit (up to 2,000 km high).
+Today, there are about 20,000 man-made objects in orbit, including satellites and rocket parts. Satellite operators can’t avoid every possible crash because moving takes time and fuel that could be used for the satellite’s main mission.
+B
+People have worried about space junk since the first satellites were launched. But now, the number of objects is increasing so fast that researchers are working on new ways to deal with the issue.
+Some teams are building large databases with accurate information about where each object is. Others are creating systems to classify objects by shape and size. This helps operators understand which pieces of junk are dangerous.
+If nothing is done, a few uncontrolled crashes could cause so much debris that space becomes too dangerous to use. “If we keep going like this, we’ll reach a point of no return,” says Carolin Frueh, a scientist at Purdue University.
+C
+Even though we are improving our ability to track space objects, the number of objects keeps increasing. That’s why space agencies, companies, and governments are working together to reduce the risks.
+An international group called the Inter-Agency Space Debris Coordination Committee gives safety advice. For example, they recommend that after satellites finish their work, leftover fuel or pressure should be released to prevent explosions. They also suggest lowering satellites into the atmosphere so they burn up within 25 years.
+However, only about half of all missions follow this advice, says Holger Krag from the European Space Agency. He also worries that some companies may fail or go bankrupt and leave their satellites in orbit without removing them.
+D
+Space is very large, so in theory, there should be enough room for all satellites. Some scientists believe the best solution is to know exactly where every piece of junk is.
+If the position of all objects is known, many unnecessary moves could be avoided. “If you knew exactly where everything was, there would be almost no danger,” says Marlon Sorge, a space debris expert in California.
+E
+This field is called space traffic management. It is similar to how traffic is controlled on roads and at airports.
+Moriba Jah, a scientist from the University of Texas, compares it to a busy airport: planes take off and land very close to each other in a controlled way. Air traffic controllers know the position of planes with very high accuracy—within one metre.
+But in space, we don’t have that level of accuracy. Many objects are not tracked well, or tracked at all.
+F
+Another challenge is that there is no complete list that shows the correct paths of all space debris.
+Jah created a website that collects data from different sources (like U.S. and Russian government databases). When he looks up a Russian rocket body, the system shows two completely different orbits—one from each source. It’s hard to know which one is correct unless another reliable source confirms it.
+Jah sees himself as a “space environmentalist.” He wants space to stay safe and useful for future generations. But for now, he believes space is being polluted more and more, like a shared area that no one is protecting.
+//
+Question 27. Questions 27-31
+Reading Passage 3 has six sections, A-F.
+Which section contains the following information?
+Write the correct letter, A-F, in boxes 27-31 on your answer sheet.
+/s
+a reference to the cooperation that takes place to try and minimise risk
+*A
+*B
+*C
+^-
+*D
+*E
+*F
+/1
+Question 28.   an explanation of a person’s aims
+*A
+*B
+*C
+*D
+*E
+*F
+^-
+/1
+
+Question 29.   a description of a major collision that occurred in space
+*A
+^-
+*B
+*C
+*D
+*E
+*F
+/1
+
+Question 30.   a comparison between tracking objects in space and the efficiency of a transportation system
+*A
+*B
+*C
+*D
+*E
+^-
+*F
+/1
+
+Question 31.   a reference to efforts to classify space junk
+*A
+*B
+^-
+*C
+*D
+*E
+*F
+/1
+
+Question 32. Questions 32-35
+Complete the summary below.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 32-35 on your answer sheet.
+Advice from the Inter-Agency Space Debris Coordination Committee
+An international group gives guidance to help protect the 32 __________ of space.
+They advise that when satellites are no longer used, any leftover 33 __________ or pressure should be released to stop 34 __________.
+However, Holger Krag says that companies which become 35 __________ may leave their satellites in space instead of removing them.
+/s
+-
+/
+{ safety }
+Question 33. -
+/
+{ fuel }
+Question 34. -
+/
+{ explosions }
+Question 35. -
+/
+{ bankrupt }
+
+Question 36. Questions 36-40
+Look at the following statements (Questions 36-40) and the list of people below.
+Match each statement with the correct person, A, B, C or D.
+Write the correct letter, A, B, C or D, in boxes 36-40 on your answer sheet.
+NB   You may use any letter more than once.
+List of People
+A     Carolin Frueh
+B     Holger Krag
+C     Marlon Sorge
+D     Moriba Jah
+
+/s
+We need to know the exact position of space junk to stay safe.
+*A
+*B
+*C
+^-
+*D
+/1
+Question 37. Space should be safe and useful for everyone in the future.
+*A
+*B
+*C
+*D
+^-
+/1
+
+Question 38. Many space missions do not follow the safety advice.
+*A
+*B
+^-
+*C
+*D
+/1
+
+Question 39. Different sources sometimes give different information about the same object.
+*A
+*B
+*C
+*D
+^-
+/1
+
+Question 40. If we don’t act soon, space could become too dangerous to use.
+*A
+^-
+*B
+*C
+*D
+/1
+
+
+/#

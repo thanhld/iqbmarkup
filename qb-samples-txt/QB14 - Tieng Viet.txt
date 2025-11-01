@@ -1,0 +1,166 @@
+@Chọn từ thích hợp để hoàn thành câu
+#	Bé.......... tay chào khách.
+A.	khoanh 
+B.	khanh 
+C.	hoanh 
+D.	khoa 
+#	Con đường ............. khó đi.
+A.	gồ ghề 
+B.	ghồ ghề 
+C.	ghồ gề 
+D.	gồ gề 
+#	Hàng phượng trên phố nở hoa .........
+A.	rực rỡ
+B.	dực dỡ
+C.	giực giỡ
+D.	rực dỡ
+#	Em ngồi nhóm lửa ....... bà.
+A.	giúp 
+B.	dúp 
+C.	gúp 
+D.	rúp 
+#	Em ............... nghe cô giảng bài.
+A.	chăm chú 
+B.	trăm trú 
+C.	chăm trú 
+D.	trăm chú 
+
+@Sắp xếp các từ đã cho để hoàn thành câu
+#em, mẹ , cho, bột, bé, quấy
+A.Mẹ quấy bột cho em bé
+B.Mẹ cho em bé quấy bột
+C.Mẹ bé quấy bột cho em 
+D.Mẹ em bé cho quấy bột
+#lớp, sinh, bạn, là, một, Nga, học
+A.Bạn Nga là học sinh lớp một
+B.Bạn Nga là học sinh một lớp
+C.Học sinh Nga là bạn lớp một
+D.Bạn là Nga học sinh lớp một
+#viết, Bá, rất, Cao, xấu, Quát, chữ
+A.Cao Bá Quát viết chữ rất xấu
+B.Cao Bá Quát viết rất xấu chữ
+C.chữ viết Cao Bá Quát rất xấu
+D.viết chữ rất xấu Cao Bá Quát
+#trâu, ruộng , cày, đang, con
+A.Con trâu đang cày ruộng
+B.Con trâu ruộng đang cày
+C.Ruộng đang cày con trâu
+D.Con trâu cày ruộng đang 
+#rất, sóc, leo, thích, trên, cây, trèo
+A.Sóc rất thích leo trèo trên cây
+B.Sóc rất thích trên cây leo trèo
+C.Trèo trên cây leo sóc rất thích
+D.Sóc trên cây leo trèo rất thích
+
+
+@Điền âm thích hợp vào chỗ trống 
+#Điền ai và ay vào các chỗ trống ... cho đúng: 
+ 
+Ch...tóc, suối ch...
+B.Chải tóc, suối chảy
+C.Chảy tóc, suối chải
+A.Chảy tóc, suối chảy
+#Điền uân và uyên vào các chỗ trống ... cho đúng:
+ 
+kh... tai, kh...vác
+B.khuyên tai, khuân vác
+C.khuân tai, khuyên vác
+A.khuân tai, khuân vác
+#Điền ân và ăn vào các chỗ trống trong các từ sau đây:
+ 
+S.... nhà, ch...... trâu
+B.Sân nhà, chăn trâu
+C.Săn nhà, chân trâu
+A.Sân nhà, chân trâu
+#Điền ac và at vào các chỗ trống ... cho đúng:
+ 
+Th.... nước, chẻ l...
+B.Thác nước, chẻ lạt
+C.Thát nước, chẻ lạc
+A.Thác nước, chẻ lạc
+#Điền ua và ưa vào các chỗ trống ... cho đúng:
+ 
+bếp l..., khế ch......
+B.bếp lửa, khế chua
+C.bếp lủa, khế chưa
+A.bếp lửa, khế chưa
+
+
+@Đọc đoạn văn và trả lời các câu hỏi
+
+##
+
+Người trồng na
+Một cụ già lúi húi ngoài vườn, trồng cây na nhỏ. Người hàng xóm thấy vậy, cười bảo: 
+- Cụ ơi, cụ nhiều tuổi sao còn trồng na? Cụ trồng chuối có phải hơn không? Chuối mau ra quả. Còn na, chắc gì cụ đã chờ được đến ngày có quả.
+Cụ già đáp:
+  - Có sao đâu ! Tôi không ăn thì con cháu tôi ăn. Chúng sẽ chẳng quên người trồng.
+//
+
+
+#Cụ già trồng cây gì?
+A.	Trồng cây na
+B.	Trồng cây ổi
+C.	Trồng cây táo
+
+#Người hàng xóm khuyên cụ điều gì?
+A.	Cụ trồng chuối mau ra quả.
+B.	Cụ trồng táo nhiều quả hơn
+C.	Cụ trồng ổi ăn cho ngon.
+
+
+#Cụ  già trả lời thế nào?
+A.	Có sao đâu ! Tôi không ăn thì con cháu tôi ăn
+B.	Tôi không thích trồng chuối.
+C.	Tôi thích ăn na hơn nên tôi trồng na.
+
+
+#Cụ già mong gì ở công việc mình làm? 
+A.	Con cháu không quên ơn người trồng.
+B.	Con cháu được ăn quả na.
+C.	Quên tuổi già sức yếu của mình.
+/#
+
+
+##
+
+Quê em vùng biển  
+
+Quê em ở vùng biển 
+Phong cảnh đẹp vô cùng
+Nước biển xanh mênh mông
+Sóng xô tràn bãi cát.
+ 
+Sớm chiều vang tiếng hát
+Từng đoàn thuyền ra khơi
+Chiều ngả bóng mặt trời
+Thuyền về đầy ắp cá.
+ 
+Quê em giàu đẹp quá!
+Em tha thiết yêu quê.
+
+//
+
+
+#Khổ thơ nào cho ta thấy cảnh biển rất đẹp?
+A.	Khổ thơ thứ nhất
+B.	Khổ thơ thứ hai
+C.	Khổ thơ thứ ba
+
+
+#Chi tiết nào trong bài cho ta biết biển rất giàu?
+A.	Thuyền về đầy ắp cá.
+B.	Nước biển xanh mênh mông.
+C.	Sóng xô tràn bãi cát.
+
+#Bạn nhỏ yêu quê hương mình qua từ nào trong bài?
+A.	Tha thiết
+B.	Giàu đẹp quá
+C.	Tiếng hát
+
+
+#Đoàn thuyền về đầy ắp cá vào buổi nào?
+A.	Buổi chiều
+B.	Buổi sáng
+C.	Buổi tối
+/#

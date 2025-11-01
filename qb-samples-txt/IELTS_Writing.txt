@@ -1,0 +1,35 @@
+
+~WRITING {.}
+@WRITING TASK 1
+Câu 1. You should spend about 20 minutes on this task.
+The graph gives information about the percentage of the population of four different Asian countries living in cities between 1970 and 2020 with additional predictions for 2030 and 2040.
+Summarize the information by selecting and reporting the main features and making comparisons where relevant.
+Write at least 150 words.
+ image1.png
+/
+[text]
+Answers may vary.
+	Task Achievement: (0.25 point)
+	Coherence And Cohesion: (0.25 point)
+	Lexical Resource: (0.25 point)
+	Grammatical Range and Accuracy: (0.25 point)
+@WRITING TASK 2
+Câu 2. You should spend about 40 minutes on this task.
+Write about the following topic:
+Some people believe that studying at university or college is the best route to a successful career, while others believe that it is better to get a job straight after school. Discuss both views and give your opinion.
+Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.
+/
+[text]
+Answers may vary.
+	Task Achievement: (0.25 point)
+	Coherence And Cohesion: (0.25 point)
+	Lexical Resource: (0.25 point)
+	Grammatical Range and Accuracy: (0.25 point)
+
+
+
+
+
+
+
+

@@ -1,0 +1,768 @@
+@PHẦN I. NHẬN BIẾT {-}
+
+#Định luật bảo toàn động lượng chỉ đúng trong trường hợp 
+D. hệ cô lập.
+A. hệ có ma sát. 
+B. hệ không có ma sát. 
+C. hệ kín có ma sát. 	
+#Động lượng được tính bằng đơn vị
+B. Kg.m/s	
+A. kg/s.	
+C. N.m.	
+D. N.m/s.
+#Động lượng của một vật khối lượng m đang chuyển động với vận tốc \(\vec v\) là đại lượng được xác định bởi công thức :
+A. \(\vec p = m.\vec v\).		
+B. \(p = m.v\).		
+C. \(p = m.a\).		
+D. \(\vec p = m.\vec a\).
+#Véc tơ động lượng là véc tơ 
+D. cùng phương, cùng chiều với véc tơ vận tốc. 
+A. cùng phương, ngược chiều với véc tơ vận tốc.
+B. có phương hợp với véc tơ vận tốc một góc α bất kỳ. 
+C. có phương vuông góc với véc tơ vận tốc. 
+#Chuyển động bằng phản lực tuân theo 
+C. định luật bảo toàn động lượng.	
+A. định luật bảo toàn công.                            
+B. định luật II Niu-tơn. 
+D. định luật III Niu-tơn
+#Đơn vị của công trong hệ SI là
+C. J.	
+A.W.	
+B. kg.	
+D. N.
+#Đơn vị của công suất 
+D. W.
+A. J.s.	
+B. kg.m/s.	
+C. J.m.	
+#Công suất được xác định bằng
+B. công thực hiện trong một đơn vị thời gian. 
+A. tích của công và thời gian thực hiện công.
+C. công thực hiện đươc trên một đơn vị chiều dài.
+D. giá trị công thực hiện được. 
+#Động năng của một vật khối lượng m, chuyển động với vận tốc v là :
+D. \({W_d} = \frac{1}{2}m{v^2}\).
+A. \({W_d} = \frac{1}{2}mv\)		
+B. \({W_d} = m{v^2}\).		
+C. \({W_d} = 2m{v^2}\).		
+#Định luật I Niutơn xác nhận rằng:
+B. Vật giữ nguyên trạng thái đứng yên hoặc chuyển động thẳng đều khi nó không chịu tác dụng của bất cứ vật nào khác.
+A.Với mỗi lực tác dụng đều có một phản lực trực đối.
+C.Khi hợp lực tác dụng lên một vât bằng không  thì vật không thể chuyển động được.
+D. Do quán tính nên mọi vật đang chuyển động đều có xu hướng dừng lại.
+#Trong ôtô, xe máy vv... có bộ phận hộp số (sử dụng các bánh xe truyền động có bán kính to nhỏ khác nhau) nhằm mục đích
+ 
+B. thay đổi lực phát động của xe.
+A.thay đổi công suất của xe.
+C. thay đổi công của xe.
+D. duy trì vận tốc không đổi của xe
+#Lực thực hiện công âm khi vật chuyển động trên mặt phẳng nằm ngang là 
+A. lực ma sát.	
+B. lực phát động.	
+C. lực kéo.	
+D. trọng lực. 
+#Công của lực tác dụng lên vật bằng không khi góc hợp giữa lực tác dụng và chiều chuyển động là
+D. 900.
+A. 00	
+B. 600.	
+C. 1800.	
+#Khi lực F cùng chiều với độ dời s thì
+C. công A ≠ 0.	
+A. công A không đổi	
+B. công A < 0.	
+D. công A = 0
+#Đơn vị nào sau đây không phải là đơn vị của công suất?
+C. Kilôoat giờ (kWh)           
+A. Oát (W). 
+B. Kilôoat (kW). 
+D. Mã lực (HP).
+#Một vật được ném thẳng đứng từ dưới lên cao. Trong quá trình chuyển động của vật thì
+D. thế năng của vật tăng
+A. thế năng của vật giảm                
+B. thế năng của vật không thay đổi
+C. thế năng của vật giảm sau đó tăng                  
+#Thế năng trọng trường là đại lượng
+B. vô hướng, có thể âm, dương hoặc bằng không. 
+A. vô hướng, có thể dương hoặc bằng không. 
+C. véc tơ cùng hướng với véc tơ trọng lực.
+D. véc tơ có độ lớn luôn dương hoặc bằng không. 
+#Một viên đạn bay trong không khí với một vận tốc ban đầu xác định, bỏ qua sức cản của không khí. Đại lượng nào sau đây không đổi trong khi viên đạn chuyển động ?
+B. Gia tốc	
+A. Động lượng	
+C. Thế năng	
+D. Động năng.
+#Động năng là đại lượng
+B. vô hướng, có thể dương hoặc bằng không.	
+A. vô hướng, luôn dương.	
+C. véc tơ, luôn dương. 	
+D. véc tơ, luôn dương hoặc bằng không. 
+#Động năng là dạng năng lượng do vật 
+A.Chuyển động	
+B. Nhận được từ vật khác 
+C. Đứng yên 	
+D. Va chạm
+#Trong các vật sau, vật nào không có động năng?
+A. Hòn bi nằm yên trên mặt sàn.
+B. Hòn bi lăn trên sàn nhà.
+C. Máy bay đang bay.
+D. Viên đạn đang bay.
+#Động năng của vật phụ thuộc vào yếu tố nào?
+D. Khối lượng và vận tốc của vật.
+A. Khối lượng.
+B. Vận tốc của vật.
+C. Khối lượng và chất làm vật.
+#Trong các trường hợp sau, trường hợp nào vật có cả động năng và thế năng? Chọn mốc thế năng tại mặt đất.
+C. Một máy bay đang bay trên cao.
+A. Một máy bay đang chuyển động trên đường băng của sân bay.
+B. Một ô tô đang đỗ trong bến xe.
+D. Một ô tô đang chuyển động trên đường.
+#Nếu chọn mặt đất làm mốc để tính thế năng thì trong các vật sau đây vật nào không có thế năng?
+B. Lò xo để tự nhiên ở một độ cao so với mặt đất.
+A. Viên đạn đang bay.
+C. Chiếc lá đang rơi
+D. Lò xo bị ép đặt ngay trên mặt đất.
+#Tính chất nào sau đây không phải là phân tử của vật chất ở thể khí
+A.Chuyển động hỗn loạn xung quanh các vị trí cân bằng cố định
+B. Chuyển động hỗn loạn
+C.Chuyển động không ngừng
+D. Chuyển động hỗn loạn và không ngừng
+#Điều nào sau đây là sai khi nói về cấu tạo chất
+A.Các nguyên tử hay phân tử chuyển động càng nhanh thì nhiệt độ của vật càng thấp
+B.Các nguyên tử, phân tử chuyển động hỗn loạn không ngừng
+C.Các nguyên tử, phân tử đồng thời hút nhau và đẩy nhau
+D.Các chất được cấu tạo từ các nguyên tử, phân tử
+#Câu nào sau đây nói về lực tương tác phân tử là không đúng
+A.Lực hút phân tử không thể lớn hơn lực đẩy phân tử
+B. Lực hút phân tử có thể bằng lực đẩy phân tử
+C. Lực hút phân tử có thể lớn hơn lực đẩy phân tử
+D.lực phân tử chỉ đáng kể khi các phân tử rất gần nhau
+#Một người thực hiện động tác nằm sấp, chống tay xuống sàn nhà để nâng người lên. Hỏi sàn nhà đẩy người đó như thế nào?
+C. Đẩy lên.		
+A. Không đẩy gì cả.	
+B. Đẩy xuống.		
+D. Đẩy sang bên.
+#Vật nào sau đây chuyển động theo quán tính?
+C. Vật chuyển động thẳng đều.
+A. Vật chuyển động tròn đều.
+B. Vật chuyển động trên quỹ đạo thẳng.
+D. Vật chuyển động rơi tự do.
+#Khi nói về một vật chịu tác dụng của lực, phát biểu nào sau đây đúng?
+D. Khi có tác dụng lực lên vật, vận tốc của vật tăng.
+A. Khi không có lực tác dụng, vật không thể chuyển động.
+B. Khi ngừng tác dụng lực lên vật, vật này sẽ dừng lại.
+C. Gia tốc của vật luôn cùng chiều với chiều của lực tác dụng.
+#Hãy chỉ ra kết luận sai. Lực là nguyên nhân làm cho
+A. vật chuyển động.                                  
+B. hình dạng của vật thay đổi.
+C. độ lớn vận tốc của vật thay đổi.           
+D. hướng chuyển động của vật thay đổi
+#Khi đang đi xe đạp trên đường nằm ngang, nếu ta ngừng đạp, xe vẫn tự di chuyển. Đó là nhờ
+C. quán tính của xe.                                  
+A. trọng lượng của xe                               
+B. lực ma sát nhỏ.
+D. phản lực của mặt đường
+#Đại lượng đặc trưng cho mức quán tính của một vật là
+B. khối lượng.            
+A. trọng lương. 
+C. vận tốc. 
+D. lực
+#Tìm kết luận chưa chính xác về định luật I Niutơn?
+B. chỉ là trường hợp riêng của định luật II Niutơn.
+A. Còn gọi là định luật quán tính.
+C. Hệ qui chiếu mà trong đó định luật I Niutơn được nghiệm đúng gọi là hệ qui chiếu quán tính.
+D. cho phép giải thích về nguyên nhân của trạng thái cân bằng của vật.
+#Hiện tượng nào sau đây không thể hiện tính quán tính?
+B. Viên bi có khối lượng lớn lăn xuống máng nghiêng nhanh hơn viên bi có khối lượng nhỏ.
+A. Khi bút máy bị tắc mực, ta vẩy mạnh để mực văng ra.
+C. Ôtô đang chuyển động thì tắt máy nó vẫn chạy thêm một đoạn nữa rồi mới dừng lại.
+D. Một người đứng trên xe buýt, xe hãm phanh đột ngột, người có xu hướng bị ngã về phía trước
+#Trong các hiện tượng sau, hiện tượng nào xảy ra không do quán tính?
+B. Vận động viên chạy đà trước khi nhảy cao.
+A. Bụi rơi khỏi áo khi ta rũ mạnh áo. 
+C. Lưỡi búa được tra vào cán khi gõ cán búa xuống nền.
+D. Khi xe chạy, hành khách ngồi trên xe nghiêng sang trái, khi xe rẽ sang phải.
+#Câu nào đúng?Trong một cơn lốc xoáy, một hòn đá bay trúng vào một cửa kính, làm vỡ kính.
+B. Lực của hòn đá tác dụng vào tấm kính về độ lớn bằng lực của tấm kính tác dụng vào hòn đá.
+A. Lực của hòn đá tác dụng vào tấm kính lớn hơn lực của tấm kính tác dụng vào hòn đá.
+C. Lực của hòn đá tác dụng vào tấm kính nhỏ hơn lực của tấm kính tác dụng vào hòn đá.
+D. Lực của hòn đá tác dụng vào tấm kính lớn hơn trọng lượng của tấm kính.
+#Khi vật chỉ chịu tác dụng của một lực duy nhất thì nó
+D. bị biến dạng hoặc biến đổi vận tốc
+A. chỉ biến dạng mà không biến đổi vận tốc.               
+B. chuyển động thẳng đều mãi.
+C. chỉ biến đổi vận tốc mà không bị biến dạng.           
+#Hành khách ngồi trên xe ôtô đang chuyển động, xe bất ngờ rẽ sang phải. Theo quán tính hành khách sẽ 
+B. nghiêng sang trái. 
+A. nghiêng sang phải.                                                       
+C. ngả người về phía sau.                                                 
+D. chúi người về phía trước
+#Khi một con ngựa kéo xe, lực tác dụng vào con ngựa làm cho nó chuyển động về phía trước là
+D. lực mà đất tác dụng vào ngựa.
+A. lực mà con ngựa tác dụng vào xe.
+B. lực mà xe tác dụng vào ngựa.
+C. lực mà ngựa tác dụng vào đất. 
+#Chọn câu đúng. Cặp "lực và phản lực" trong định luật III Niutơn
+B. tác dụng vào hai vật khác nhau.
+A. tác dụng vào cùng một vật.                
+C. không bằng nhau về độ lớn.               
+D. bằng nhau về độ lớn nhưng không cùng giá
+#Chọn câu phát biểu đúng?
+D. Nếu có lực tác dụng lên vật thì vận tốc của vật bị thay đổi
+A. Nếu không có lực tác dụng vào vật thì vật không chuyển động được.
+B. Lực tác dụng luôn cùng hướng với hướng biến dạng.
+C. Vật luôn chuyển động theo hướng của lực tác dụng.
+#Trong các cách viết công thức của định luật II Niu - tơn sau đây, cách viết nào đúng?
+B.\(\vec F = ma\).             
+A.\(\vec F = m\vec a\).                
+C.\(F = m\vec a\).            
+D. \(\vec F =  - m\vec a\).
+#Lực nào sau đây không phải là lực ma sát?
+C. Lực của dây cung tác dụng lên mũi tên khi bắn.
+A. Lực xuất hiện khi bánh xe trượt trên mặt đường.
+B. Lực xuất hiện khi lốp xe đạp lăn trên mặt đường.
+D. Lực xuất hiện khi các chi tiết máy cọ xát với nhau.
+#Khi xe đang chuyển động, muốn xe dừng lại, người ta dùng phanh để:
+A. tăng ma sát trượt              
+B. tăng ma sát lăn
+C. tăng ma sát nghỉ                
+D. tăng quán tính
+#Một ô tô đang chuyển động trên mặt đường, lực tương tác giữa bánh xe với mặt đường là:
+C. ma sát lăn        
+A. ma sát trượt        
+B. ma sát nghỉ
+D. lực quán tính
+#Trường hợp nào sau đây xuất hiện lực ma sát trượt?
+D. Khi viết phấn trên bảng.
+A. Viên bi lăn trên cát.
+B. Bánh xe đạp chạy trên đường.
+C. Trục ổ bi ở xe máy đang hoạt động.
+#Trường hợp nào sau đây xuất hiện lực ma sát nghỉ?
+D. Chiếc ô tô nằm yên trên mặt đường dốc.
+A. Kéo trượt cái bàn trên sàn nhà.
+B. Quả dừa rơi từ trên cao xuống.
+C. Chuyển động của cành cây khi gió thổi.
+#Nếu một vật  đang chuyển động có gia tốc mà lực tác dụng lên nó giảm đi thì gia tốc của vật 
+B. giảm đi.		
+A. tăng lên .		
+C. không thay đổi.	
+D. bằng 0.
+#Ở những đoạn đường vòng, mặt đường được nâng lên một bên. Việc làm này nhằm mục đích nào kể sau đây?
+B. Tạo lực hướng tâm.
+A. Giới hạn vận tốc của xe. 
+C. Tăng lực ma sát. 
+D. Cho nước mưa thốt dễ dàng.
+@PHẦN II. THÔNG HIỂU {-}
+#Một nhóm học sinh đẩy một xe chở đất từ A đến B trên đoạn đường nằm ngang, tới B đổ hết đất rồi đẩy xe không theo đường cũ trở về A. So sánh công sinh ra ở lượt đi và lượt về.
+B. Công ở lượt đi lớn hơn vì lực đẩy lượt đi lớn hơn lượt về.
+A. Công ở lượt đi bằng công trượt ở lượt về vì quãng đường đi được bằng nhau.
+C. Công ở lượt về lớn hơn vì xe không thì đi nhanh hơn.
+D. Công ở lượt đi nhỏ hơn vì kéo xe nặng nên đi chậm.
+#Va chạm nào sau đây là va chạm mềm?
+B. Viên đạn đang bay xuyên vào và nằm gọn trong bao cát. 
+A. Quả bóng đang bay đập vào tường và nảy ra. 
+C. Viên đạn xuyên qua một tấm bia trên đường bay của nó. 
+D. Quả bóng tennis đập xuống sân thi đấu. 
+#Sở dĩ khi bắn súng trường (quan sát hình ảnh) các chiến sĩ phải tì vai vào báng súng vì hiện tượng giật lùi của súng có thể gây chấn thương cho vai. Hiện tượng súng giật lùi trên trên liên quan đến 
+ 
+D. chuyển động bằng phản lực.
+A. chuyển động theo quán tính.          
+B. chuyển động do va chạm.
+C. chuyển động ném ngang.	
+#Vì sao hành khách ngồi trên ô tô đang chuyển động thẳng bỗng thấy mình bị nghiêng sang bên trái?
+D. Vì ô tô đột ngột rẽ sang phải.
+A. Vì ô tô đột ngột giảm vận tốc.
+B. Vì ô tô đột ngột tăng vận tốc.
+C. Vì ô tô đột ngột rẽ sang trái.
+#Biểu thức \(p = \sqrt {p_1^2 + p_2^2} \) là biểu thức tính độ lớn tổng động lượng của hệ trong trường hợp
+C. hai véctơ vận tốc vuông góc với nhau. 	
+A. hai véctơ vận tốc cùng hướng. 	
+B. hai véctơ vận tốc cùng phương ngược chiều. 
+D. hai véctơ vận tốc hợp với nhau một góc 600.
+#Nếu khối lượng của vật giảm đi 2 lần, còn vận tốc của vật tăng lên 4 lần thì động năng của vật sẽ
+B. tăng lên 8 lần.	
+A. tăng lên 2 lần.	
+C. giảm đi 2 lần.	
+D. giảm đi 8 lần.
+#Tìm câu sai. Động năng của một vật không đổi khi
+D. chuyển động biến đổi đều.
+A. chuyển động thẳng đều.                                
+B. chuyển động tròn đều.
+C. chuyển động cong đều.                                  
+#Trong các chuyển động sau chuyển động nào là chuyển động do quán tính?
+D. Xe đạp chạy sau khi thôi không đạp xe nữa.
+A. Hòn đá lăn từ trên núi xuống.
+B. Xe máy chạy trên đường.
+C. Lá rơi từ trên cao xuống.
+#Một vật đang đứng yên trên mặt phẳng nằm ngang. Các lực tác dụng vào vật cân bằng nhau là:
+C. Trọng lực P của Trái Đất với phản lực N của mặt bàn.
+A. Trọng lực P của Trái Đất với lực ma sát F của mặt bàn.
+B. Trọng lực P của Trái Đất với lực đàn hồi.
+D. Lực ma sát F với phản lực N của mặt bàn.
+#Khi xe đạp, xe máy đang xuống dốc, muốn dừng lại một cách an toàn nên hãm phanh (thắng) bánh nào?
+B. Bánh sau
+A. Bánh trước
+C. Đồng thời cả hai bánh
+D. Bánh trước hoặc bánh sau đều được
+#Quá trình nào sau đây, động lượng của ôtô được bảo toàn?
+D. Ôtô chuyển động thẳng đều trên đường không có ma sát.
+A. Ôtô tăng tốc.			
+B. Ôtô chuyển động tròn.    
+C. Ôtô giảm tốc.				
+#khi lực \(\vec F\)(không đổi) tác dụng lên vật trong khoảng thời gian ngắn\(\Delta t\) thì biểu thức nào sau đây là xung của lực \(\vec F\) trong khoảng thời gian \(\Delta t\)?
+A. \(\vec F.\Delta t\)		
+B. \(\frac{{\vec F}}{{\Delta t}}\)				
+C. \(\frac{{\Delta t}}{{\vec F}}\)			
+D. \(F.\Delta t\)
+#Chọn phát biểu đúng.  Đại lượng đặc trưng cho khả năng sinh công của một vật trong một đơn vị thời gian gọi là :
+D. Công suất.
+A. Công cơ học.	
+B. Công phát động.		
+C. Công cản.		
+#Gọi A là công của lực thực hiện trong thời gian t. Biểu thức nào sau đây là đúng với biểu thức công suất?  
+A. P = \(\frac{A}{t}\)
+B. P = At            
+C. P = \(\frac{t}{A}\)	
+D. P = A .t2
+#Trường hợp nào sau đây không thể coi  vật như là chất điểm?	
+D. Trái Đất trong chuyển động tự quay quanh trục của nó.
+A. Viên đạn đang chuyển động trong không khí.
+B. Trái Đất trong chuyển động quay quanh Mặt Trời.
+C. Viên bi trong sự rơi từ tầng thứ năm của một toà nhà xuống mặt đất.
+#Một viên bi chuyển động đều trên mặt sàn nằm ngang, phẳng, nhẵn (ma sát không đáng kể). Nhận xét nào sau đây là sai?
+C. Gia tốc của vật khác không.			
+A. Gia tốc của vật bằng không.			
+B. Hợp lực tác dụng lên vật bằng không.
+D. Vận tốc trung bình có giá trị bằng vận tốc tức thời tại bất kỳ thời điểm nào.
+#Một vật khối lượng m, đặt ở độ cao z so với mặt đất trong trọng trường của Trái Đất thì thế năng trọng trường của vật được xác định theo công thức:
+A. \({W_t} = mgz\)		
+B. \({W_t} = \frac{1}{2}mgz\).	
+C. \({W_t} = mg\).		
+D. \({W_t} = mg\).
+#Một vật có khối lượng m gắn vào đầu một lò xo đàn hồi có độ cứng k, đầu kia của lò xo cố định. Khi lò xo bị nén lại một đoạn l (l < 0) thì thế năng đàn hồi bằng:
+B. \({W_t} = \frac{1}{2}k.{(\Delta l)^2}\).		
+A. \({W_t} = \frac{1}{2}k.\Delta l\).	
+C. \({W_t} =  - \frac{1}{2}k.{(\Delta l)^2}\).		
+D. \({W_t} =  - \frac{1}{2}k.\Delta l\).
+#Chọn phát biểu đúng.Một vật nằm yên, có thể có
+D. thế năng.
+A. vận tốc.		
+B. động lượng.	
+C. động năng.		
+#Khi một vật chuyển động trong trọng trường thì cơ năng của vật được xác định theo công thức:
+B. \(W = \frac{1}{2}m{v^2} + mgz\).	
+A. \(W = \frac{1}{2}mv + mgz\).	
+C. \(W = \frac{1}{2}m{v^2} + \frac{1}{2}k{(\Delta l)^2}\).
+D. \(W = \frac{1}{2}m{v^2} + \frac{1}{2}k.\Delta l\)
+#Chọn phát biểu đúng.Cơ năng là một đại lượng
+C. có thể âm dương hoặc bằng không.	
+A. luôn luôn dương.				
+B. luôn luôn dương hoặc bằng không.
+D. luôn khác không.
+#Một vật được ném thẳng đứng từ dưới lên, trong quá trình chuyển động của vật thì
+A. Động năng giảm, thế năng tăng	
+B. Động năng giảm, thế năng giảm                             
+C. Động năng tăng, thế năng giảm                             
+D. Động năng tăng, thế năng tăng
+#Quần áo đã là lâu bẩn hơn quần áo không là vì
+C. bề mặt vải phẳng, nhẵn bụi bẩn khó bám vào.
+A. sạch hơn nên bụi bẩn khó bám vào.		
+B. mới hơn nên bụi bẩn khó bám vào.	
+D.bề  mặt vải sần sùi hơn nên bụi bẩn khó bám vào.
+#Tính chất nào sau đây không phải là của phân tử ở thể khí?
+D. Có lúc đứng yên, có lúc chuyển động.
+A. chuyển động không ngừng.	
+B. chuyển động càng nhanh thì nhiệt độ của vật càng cao.
+C. Giữa các phân tử có khoảng cách.	
+#Công là đại lượng: 
+A. Vô hướng có thể âm, dương hoặc bằng không                   
+B. Vô hướng có thể âm hoặc dương 
+C. Véc tơ có thể âm, dương hoặc bằng không                         
+D. Véc tơ có thể âm hoặc dương 
+#Vật nào sau đây không có khả năng sinh công? 
+D. Hòn đá đang nằm trên mặt đất 
+A. Dòng nước lũ đang chảy mạnh                                             
+B. Viên đạn đang bay 
+C. Búa máy đang rơi xuống                                                       
+#Động năng là đại lượng: 
+B. Vô hướng, có thể dương hoặc bằng không 
+A. Vô hướng, dương ,âm hoặc bằng 0                       
+C. Vectơ, luôn dương                                                
+D. Véc tơ, có thể dương hoặc bằng không 
+
+#Dạng năng lượng tương tác giữa trái đất và vật là
+D. Thế năng trọng trường.
+A. Thế năng đàn hồi.		
+B. Động năng.
+C. Cơ năng.	
+#Thế năng trọng trường là đại lượng: 
+A. Vô hướng, có thể âm, dương hoặc bằng không    
+B. Vô hướng, có thể dương hoặc bằng không 
+C. Véc tơ có cùng hướng với véc tơ trọng lực    
+D. Véc tơ có độ lớn luôn dương hoặc bằng không
+#Điều nào sau đây là sai khi nói về cơ năng:
+D. Cơ năng của vật là đại lượng véc tơ
+A. Cơ năng bằng tổng động năng và thế năng
+B. Cơ năng của vật được bảo toàn khi vật chỉ chịu tác dụng của trọng lực hoặc lực đàn hồi
+C. Cơ năng của vật có thể âm
+#Một vật nhỏ được ném thẳng đứng hướng xuống từ một điểm phía trên mặt đất. Trong quá trình vật rơi :
+A. Cơ năng không đổi	
+B. Cơ năng cực tiểu ngay trước khi chạm đất
+C. Thế năng tăng	
+D. Động năng giảm
+#Quá trình biến đổi trạng thái trong đó nhiệt độ được giữ không đổi gọi là quá trình
+A. Đẳng nhiệt.
+B. Đẳng tích.
+C. Đẳng áp.	
+D. Đoạn nhiệt.
+#Trong các đại lượng sau đây, đại lượng nào không phải là thông số trạng thái của một lượng khí?
+B. Khối lượng.	
+A. Thể tích.		
+C. Nhiệt độ tuyệt đối.		
+D. Áp suất.
+#Quá trình biến đổi trạng thái trong đó thể tích được giữ không đổi gọi là quá trình:
+B. Đẳng tích.		
+A. Đẳng nhiệt.		
+C. Đẳng áp.	
+D. Đoạn nhiệt.
+#Trong các hiện tượng sau đây, hiện tượng nào không liên quan đến định luật bảo toàn động lượng?
+A. Vận động viên dậm đà để nhảy. 
+B. Người nhảy từ thuyền lên bờ làm cho thuyền chuyển động ngược lại.
+C. Xe ôtô xả khói ở ống thải khi chuyển động. 	
+D. Chuyển động của tên lửa.
+#Trường hợp nào sau đây có thể xem là hệ kín?
+D. Hai viên bi chuyển động không ma sát trên mặt phẳng nằm ngang.
+A. Hai viên bi chuyển động trên mặt phẳng nằm ngang. 
+B. Hai viên bi chuyển động trên mặt phẳng nghiêng. 
+C. Hai viên bi rơi thẳng đứng trong không khí. 
+#Từ thực tế hãy xem trường hợp nào dưới đây, quỹ đạo chuyển động của vật là đường thẳng?
+C. Một viên bi rơi tự  do từ độ cao 2m xuống mặt đất.
+A. Một hòn đá được ném theo phương nằm ngang.
+B. Một ô tô đang chạy theo hướng Hà Nội – Thành phố Hồ Chí Minh.
+D. Một chiếc là rơi từ độ cao 3m xuống mặt đất.
+#Trường hợp nào sau đây có thể  coi chiếc máy bay là một chất điểm?
+B. Chiếc máy đang bay từ Hà Nội – Tp Hồ Chí Minh.
+A. Chiếc máy  bay đang chạy trên đường băng.	
+C. Chiếc máy bay đang đi vào nhà ga.		
+D. Chiếc máy bay trong quá trình hạ cánh xuống sân bay
+#Phương trình chuyển động của một chất điểm có dạng: x = 5+ 60t  (x: km, t: h) 
+Chất điểm đó xuất phát từ điểm nào và chuyển động với vận tốc bằng bao nhiêu?
+D. Từ điểm M, cách O là 5km, với vận tốc 60km/h.
+A. Từ điểm O, với vận tốc 5km/h.				
+B. Từ điểm O, với vận tốc 60km/h.
+C. Từ điểm M, cách O là 5km, với vận tốc 5khm/h.		
+#Đặc điểm nào dưới đây không phảilà đặc điểm của vật chuyển động rơi tự do?
+D. Công thức tính vận tốc v = g.t2
+A. Chuyển động theo phương thẳng đứng, chiều từ trên xuống dưới.
+B. Chuyển động nhanh dần đều.
+C. Tại một vị trí xác định và ở gần mặt đất, mọi vật rơi tự do như nhau.
+#Chuyển động nào dưới đây không thể coi là chuyển động rơi tự do?
+C. Một chiếc lá rụng đang rơi từ trên cây xuống đất.
+A. Một viên đá nhỏ được thả rơi từ trên cao xuống mặt đất.
+B. Một cái lông chim rơi trong ống thuỷ tinh đặt thẳng đứng và đã được hút chân không.
+D. Một viên bi chì rơi trong ống thuỷ tinh đặt thẳng đứng và đã được hút chân không.
+#Chuyển động của vật nào dưới đây là chuyển động tròn đều?
+C. Chuyển động của điểm đầu cánh quạt trần khi đang quay đều.
+A. Chuyển động của đầu van bánh xe đạp khi xe đang chuyển động thẳng chậm dần đều.
+B. Chuyển động quay của Trái Đất quanh Mặt Trời.
+D. Chuyển động của điểm đầu cánh quạt khi vừa tắt điện.
+#Chọn đáp án đúng
+Giới hạn đàn hồi của vật là giới hạn trong đó vật
+A. còn giữ được tính đàn hồi.				
+B. không còn giữ được tính đàn hồi.
+C. bị mất tính đàn hồi.					
+D. bị biến dạng dẻo.
+#Người ta dùng vòng bi trên bánh xe đạp là với dụng ý:
+A. Chuyển ma sát trượt về ma sát lăn.		
+B. Chuyển ma sát lăn về ma sát trượt.
+C. Chuyển ma sát nghỉ về ma sát lăn.		
+D. Chuyển ma sát lăn về ma sát nghỉ.
+#Các vệ tinh nhân tạo chuyển động tròn đều xung quanh Trái Đất vì :
+A. Lực hấp dẫn đóng vai trò là lực hướng tâm.
+B. Lực đàn hồi đóng vai trò là lực hướng tâm.
+C. Lực ma sát đóng vai trò là lực hướng tâm.			
+D. Lực điện đóng vai trò là lực hướng tâm.
+#Chọn phát biểu đúng
+Động lượng của vật liên hệ chặt chẽ với
+A. vận tốc.		
+B. thế năng.		
+C. quãng đường đi được.		
+D. công suất.
+#Quá trình biến đổi trạng thái trong đó áp suất được giữ không đổi gọi là quá trình:
+C. Đẳng áp.
+A. Đẳng nhiệt.
+B. Đẳng tích.
+D. Đoạn nhiệt.
+#Công thức tính công của một lực là:
+C. A = F.s.cos.		
+A. A = F.s.		
+B. A = mgh.		
+D. A = ½.mv2.
+#Khi vật chịu tác dụng của lực đàn hồi (bỏ qua ma sát) thì cơ năng của vật được xác định theo công thức: 
+C. \(W = \frac{1}{2}m{v^2} + \frac{1}{2}k{(\Delta l)^2}\).	
+A. \(W = \frac{1}{2}mv + mgz\).	
+B. \(W = \frac{1}{2}m{v^2} + mgz\).	
+D. \(W = \frac{1}{2}m{v^2} + \frac{1}{2}k.\Delta l\)
+#Chọn đáp án đúng
+ Khi một xe buýt tăng tốc đột ngột thì các hành khách sẽ
+B. ngả người về phía sau.
+A. dừng lại ngay.			
+C. chúi người về phía trước.		
+D. ngả người sang bên cạnh.
+
+@PHẦN III. VẬN DỤNG {-}
+
+#Một ô tô khối lượng 4 tấn chuyển động với vận tốc không đổi 54 km/h. Động năng của ô tô tải bằng
+A. 450 kJ.
+B. 69 kJ.
+C. 900 kJ.
+D. 120 kJ.
+#Một hòn đá có khối lượng 5 kg, bay với vận tốc 72 km/h. Động lượng của hòn đá là:
+C. p = 100 kg.m/s    	
+A. p = 360 kgm/s.	
+B. p = 360 N.s.	
+D. p = 100 kg.km/h.
+#Một vật có khối lượng 1 kg rơi tự do xuống đất trong khoảng thời gian 0,5 giây ( Lấy g = 9,8 m/s2). Độ biến thiên động lượng của vật trong khoảng thời gian đó là:
+B. 4,9 kg. m/s.			
+A. 5,0 kg.m/s.		
+C. 10 kg.m/s.			
+D. 0,5 kg.m/s.
+#Xe A có khối lượng 1000 kg , chuyển động với vận tốc 60 km/h; xe B có khối lượng 2000kg , chuyển động với vận tốc 30km/h. Động lượng của:
+A. xe A bằng xe B.		
+B. không so sánh được.		
+C. xe A lớn hơn xe B.		
+D. xe B lớn hớn xe A.
+#Một vật có khối lượng m = 50g chuyển động thẳng đều với vận tốc v = 50cm/s thì động lượng của vật là:
+B. 0,025kg.m/s.		
+A. 2500g/cm.s.	
+C. 0,25kg.m/s.			
+D. 2,5kg.m/s.
+#Dưới tác dụng của lực bằng 4N, một vật thu gia tốc và chuyển động. Sau thời gian 2s độ biến thiên động lượng của vật là :	
+A. 8kg.m.s-1.		
+B. 6kg.m.s.		
+C. 6kg.m.s-1.			
+D. 8kg.m.s
+#Thả rơi tự do vật có khối lượng 1kg trong khoảng thời gian 0,2s. Độ biến thiên động lượng của vật là:         
+B. 2kg.m/s.			
+A. 20kg.m/s.		
+C. 10kg.m/s.			
+D. 1kg.m/s.
+#Lực \(\vec F\) có độ lớn 500N kéo vật làm vật dịch chuyển một đoạn đường 2m cùng hướng với lực kéo. Công của lực thực hiện  là bao nhiêu:  	
+A. 1KJ     
+B. 2KJ         
+C. 3KJ          
+D. 4KJ  
+#Một người kéo một thùng gỗ trượt trên sàn nhà bằng một sợi dây hợp với phương ngang một góc 60o, lực tác dụng lên dây là 100N, công của lực đó khi thùng gỗ trượt đi được 20m là bao nhiêu:  
+A. 1000J
+B. 1000KJ        
+C. 0,5KJ      
+D. 2KJ  
+#Để nâng 1 vật có khối lượng 50kg lên cao 10m với vận tốc không đổi,người ta cần thực hiện 1 công là bao nhiêu? lấy g= 10 m/s2
+A.5000J        
+B. 500KJ       
+C. 5000KJ     
+D. 500J
+#Một người kéo một hòm gỗ trượt trên sàn nhà bằng một dây có phương hợp với phương ngang một góc 60¬0. Lực tác dụng lên dây bằng 150N. Công của lực đó thực hiện được khi hòm trượt đi được 10 mét là:
+B. A = 750 J.		
+A. A = 1275 J.		
+C. A = 1500 J.		
+D. A = 6000 J.
+#Một cần cẩu nâng một kiện hàng có m = 800kg lên cao 5m trong 20s, lấy g =10m/s2.Công suất của cần cẩu là bao nhiêu :  
+A. 2000W           
+B.100W                
+C. 300W            
+D. 1000W
+#Một gàu nước khối lượng 10 kg được kéo cho chuyển động đều lên độ cao 5m trong khoảng thời gian 1 phút 40 giây (Lấy g = 10 m/s2). Công suất trung bình của lực kéo  là:
+B. 5W.		
+A. 0,5 W.		
+C. 50W.			
+D. 500 W.
+#Một vật có khối lượng m = 500g chuyển động thẳng đều với vận tốc v = 5m/s thì động năng của vật là:
+B. 6,25 J	
+A. 25J		
+C.6,25kg/m.s		
+D. 2,5kg/m.s
+#Một vật có trọng lượng 1N, có động năng 1J, gia tốc trọng trường g=10m/s2. Khi đó vận tốc của vật bằng:
+D. 4,5 m/s.
+A. 0,45 m/s.		
+B. 1,0 m/s.			
+C. 1,4 m/s.		
+#Một vật khối lượng 1,0 kg có thế năng 1,0 J đối với mặt đất. Lấy g = 9,8 m/s2. Khi đó, vật ở độ cao:
+A. 0,102 m.		
+B. 1,0 m.	
+C. 9,8 m.		
+D. 32 m.
+#Tác dụng một lực \(\vec F\) = 5,6N vào lò xo theo phương trục của lò xo thì lò xo dãn 2,8cm.
+Độ cứng của lò xo có giá trị là :
+A. 200N/m.			
+B. 2N/m.		
+C. 200N/m2.			
+D. 2N/m2.
+#Một vật được ném lên từ độ cao 1m so với mặt đất với vận tốc đầu 2 m/s. Biết khối lượng của vật bằng 0,5 kg (Lấy g = 10m/s2). Cơ năng của vật so với mặt đất bằng:
+C. 6 J.			
+A. 4J.			
+B. 5 J.			
+D. 7 J
+#Lấy g = 9,8m/s2. Mộtvật có khối lượng 2,0 kg sẽ có thế năng 4,0J đối với mặt đất khi nó ở độ cao h là:
+A. h = 0,204 m.		
+B. h = 0,206 m.		
+C. h = 9,8 m.		
+D. 3,2 m.
+#Một người nâng một vật có khối lượng 1 kg lên độ cao 6 m. Lấy g = 10 m/s2. Công mà người đã thực hiện là:
+B. 60 J	
+A. 180 J	
+C. 1800 J	
+D. 1860 J
+#Dưới áp suất 105 Pa một lượng khí có thể tích là 10 lít. Nếu nhiệt độ được giữ không đổi và áp suất tăng lên 1,25. 105 Pa thì thể tích của lượng khí này là:
+B. V2 = 8 lít.		
+A. V2 = 7 lít.		
+C. V2 = 9 lít. 		
+D. V2 = 10 lít.
+#Một lò xo bị nén 5 cm. Biết độ cứng lò xo k = 100 N/m, thế năng của lò xo là 
+A. 0,125 J                            
+B. 0,25 J                                      
+C. 125 J                 
+D. 250 J 
+#Một lò xo bị giãn 4 cm, có thế năng đàn hồi 0,2 J. Độ cứng của lò xo là: 
+A. 250 N/m                         
+B. 125 N/m                                   
+C. 500 N/m            
+D. 200 N/m
+#Cơ năng của một vật cókhối lượng 2kg rơi từ độ cao 5m xuống mặt đất l:
+B.100 J	
+A. 10 J	
+C. 5J	
+D. 50 J
+#Một xilanh chứa 100 cm3 khí ở áp suất 2.105 Pa. Pit tông nén đẳng nhiệt khí trong xilanh xuống còn 50 cm3. Áp suất của khí trong xilanh lúc này là :
+C.   4. 105 Pa.		
+A.   2. 105 Pa.		
+B.   3.105 Pa.		
+D.   5.105 Pa.
+#Một bình chứa một lượng khí ở nhiệt độ 270C và ở áp suất 2.105 Pa. Nếu áp suất tăng gấp đôi thì nhiệt độ của khối khí là :
+D. T = 6000 K.
+A.T = 3000K	.	
+B. T = 540 K.		
+C. T = 13,50K.            
+#Một bình kín chứa khí ôxi ở nhiệt độ 270 C và áp suất 105 Pa. Nếu đem bình phơi nắng ở nhiệt độ 1770 C thì áp suất trong bình sẽ là: 
+A. 1,5.105 Pa.		
+B. 2. 105 Pa.		
+C. 2,5.105 Pa.		
+D. 3.105 Pa.
+#Một chất điểm đứng yên dưới tác dụng của ba lực 6N, 8N và 10N. Góc giữa hai lực 6N và 8N bằng :
+D. 900.
+A. 300.		
+B. 450.		
+C. 600.		
+#Phải treo một vật có trọng lượng bằng bao nhiêu  vào lò xo có độ cứng k =100N/m để nó dãn ra được 10 cm?
+C. 10N.		
+A. 1000N.		
+B. 100N.		
+D. 1N.
+#Cho hai lực đồng quy có độ lớn bằng 9N và 12N.  Biết góc của hai lực là 900. Hợp lực có độ lớn là
+C. 15 N.		
+A. 1N.		
+B. 2N.		
+D. 25N.
+
+@PHẦN IV. VẬN DỤNG CAO {-}
+
+#Ở độ cao h = 20m một vật được ném thẳng đứng lên trên với vận tốc đầu v0 = 10m/s, lấy g=10m/s2. Bỏ qua sức cản của không khí. Độ cao mà ở đó động năng bằng thế năng của vật là:
+C. 12,5 m.		
+A. 15 m.			
+B. 25 m.			
+D. 35 m.
+#một vật được ném thẳng đứng lên cao với vận tốc 6m/s. Lấy g=10m/s2. Độ cao cực đại của vật nhận giá trị nào sau đây: 
+C. h = 1,8m.		
+A. h = 2,4m.		
+B. h = 2m.			
+D. h = 0,3m.
+#Một vật có khối lượng m được ném thẳng đứng lên cao từ mặt đất với vận tốc 7m/s. Bở qua sức cản của không khí. Lấy g=10m/s2. Vật đạt được độ cao cực đại so với mặt đất là
+D. 2,45m.
+A. 2,54m.	
+B. 4,5m.		
+C. 4,25m		
+#Từ điểm M có độ cao so với mặt đất là 0,8 m ném xuống một vật với vận tốc đầu 2 m/s. Biết khối lượng của vật bằng 0,5 kg, lấy g = 10 m/s2, mốc thế năng tại mặt đất. Khi đó cơ năng của vật bằng :
+B. 5 J	
+A. 4 J      	
+C. 1 J	
+D. 8 J
+#Cho vật chuyển động thẳng, nửa đoạn đường đầu đi với tốc độ không đổi bằng 15 m/s, nửa sau đi tốc độ không đổi bằng 10 m/s. Tốc độ trung bình trên cả quãng đường là
+A. 12 m/s.	
+B. 12,5 m/s.	
+C. 25 m/s.	
+D. 0,33 m/s.
+#Một ô tô chuyển động nhanh dần đều, sau 10 s thì tốc độ tăng từ 4 m/s đến 6 m/s. Trong khoảng thời gian đó xe đi được một quãng đường
+C. 50 m.	
+A. 40 m.	
+B. 60 m.	
+D. 30 m
+#Một vật được thả rơi tự do từ độ cao 4,9 m xuống đất. Lấy g = 9,8 m/s2. Vận tốc của vật khi chạm đất là
+A. 9,8 m/s.	
+B. 9,9 m/s.	
+C. 1,0 m/s.	
+D. 19,6 m/s.
+#Một vật nặng rơi từ độ cao 80 m xuống đất. Bỏ qua sức cản của không khí và lấy g = 10 m/s2. Vận tốc của vật khi chạm đất là
+A. 40 m/s.	
+B. 160 m/s.	
+C. 80 m/s.	
+D. 20 m/s.
+#Thả một hòn đá từ độ cao h xuống đất. hòn đá rơi trong 1 s, nếu thả ở độ cao 4 h thì thời gian rơi là
+A. 2 s.	
+B. 4 s.	
+C. 6 s.	
+D. 8 s.
+#Một vật rơi tự do từ một độ cao h. Biết rằng trong giây cuối vật rơi được quãng đường 15 m. Lấy g = 10 m/s2, thời gian rơi của vật là
+C. 2 s.	
+A. 1 s.	
+B. 1,5 s.	
+D. 3 s.
+#Một động cơ điện cung cấp công suất 15KW cho 1 cần cẩu nâng vật 1000Kg chuyển động đều lên cao 30m. Lấy g=10m/s2. Thời gian để thực hiện công việc đó là: 
+A. 20s 	
+B. 5s     	
+C. 15s    	
+D. 10s   
+#Chiếc xe chạy trên đường ngang với vận tốc 10m/s va chạm mềm vào một chiếc xe khác đang đứng yên và có cùng khối lượng. Biết va chạm là va chạm mềm, sau va chạm vận tốc hai xe là:
+B. v1 = v2 = 5m/s	
+A.v1 = 0 ; v2 = 10m/s	
+C.v1 = v2 = 10m/s	
+D.v1 = v2 = 20m/s
+#Viên bi A có khối lượng m1= 60g chuyển động với vận tốc v1 = 5m/s va chạm vào viên bi B có khối lượng m2 = 40g chuyển động ngược chiều với vận tốc   . Sau va chạm, hai viên bi đứng yên. Vận tốc viên bi B là:
+B.\({v_2} = 7,5m/s\) 
+A.\({v_2} = \frac{{10}}{3}m/s\)	
+C.\({v_2} = \frac{{25}}{3}m/s\)
+D. \({v_2} = 12,5m/s\)
+#Một vận động viên có khối lượng 70kg chạy đều hết quãng đường 180m trong thời gian 45 giâyĐộng năng của vận động viên đó là:
+A. 560J.		
+B. 315J.		
+C. 875J.		
+D. 140J.
+#Từ mặt đất, một vật được ném lên thẳng đứng với vận tốc ban đầu v0 = 10m/s. Bỏ qua sức cản của không khí . Cho g = 10m/s2. Ở độ cao nào thế năng bằng động năng ?. Bằng 4 lần động năng ?.
+A. 2,5m ; 4m. 		
+B. 2m ; 4m. 		
+C. 10m ; 2m. 		
+D. 5m ; 3m.
+#Một vật có khối lượng 400g được thả rơi tự do từ độ cao 20m so với mặt đất. Cho g = 10m/s2 . Sau khi rơi được 12m động năng của vật bằng :          
+C. 48 J. 		
+A. 16 J. 			
+B. 32 J. 			
+D. 24 J.
+#Một người kéo đều một thùng nước có khối lượng 15 kg từ giếng sâu 8 m lên trong 20 s. Công và công suất của người ấy là giá trị nào sau đây. Lấy g = 10 m/s2 .
+A. A = 1200 J, P = 60 W. 			
+B. A = 800 J, P = 400 W. 	
+C. A = 1600 J, P = 800 W. 			
+D. A = 1000 J, P = 600 W
+#Một vật được ném thẳng đứng lên cao với vận tốc 6m/s. Lấy g=10m/s2. Độ cao cực đại của vật nhận giá trị nào sau đây: 
+C. h = 1,8m.		
+A. h = 2,4m.		
+B. h = 2m.			
+D. h = 0,3m.
+#Một vật khối lượng m = 200g rơi từ độ cao h = 2m so với mặt nước ao, ao sâu 1m. Công của trọng lực thực hiện được khi vật rơi độ cao h tới đáy ao là         
+C. 6(J)		
+A. 4(J)		
+B. 5(J)		
+D. 7(J)
+#Một tàu chạy trên sông theo đường thẳng kéo một xà lan chở hàng với một lực không đổi F = 5.103N. Lực thực hiện một công A = 15.106J thì xà lan rời chỗ theo phương của lực được quãng đường là:
+B. 3km.		
+A. 6km.		
+C. 4km.		
+D. 5km.
+

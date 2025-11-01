@@ -1,0 +1,349 @@
+~LĨNH VỰC KHOA HỌC TỰ NHIÊN VÀ XÃ HỘI {.}
+@Vật lý {-}
+Câu 1. Vận tốc của vật rơi tự do phụ thuộc vào thời gian được biểu diễn theo dạng đồ thị nào sau đây?
+A.   image1.png
+C.   image2.png
+B.   image3.png
+D.   image4.png
+Câu 2. Kính lúp là dụng cụ quang học thường được sử dụng trong công tác khám nghiệm hiện trường. Khi thu thập dấu vết hiện trường bằng kính lúp, tính chất của ảnh thu được là
+B. ảnh cùng chiều, lớn hơn vật.
+A. ảnh ngược chiều, lớn hơn vật.
+C. ảnh cùng chiều, nhỏ hơn vật.
+D. ảnh ngược chiều, nhỏ hơn vật.
+Câu 3. Laze không được sử dụng trong thiết bị nào sau đây?
+C. Máy soi hành lí ở sân bay.
+A. Máy ngắm đường thẳng trong trắc địa.
+B. Máy bắn tốc độ giao thông.
+D. Đầu đọc đĩa CD/VCD.
+Câu 4. Trong khoảng thời gian 6 giờ có 75% số hạt nhân ban đầu của một đồng vị phóng xạ bị phân rã. Chu kì bán rã của đồng vị đó là 
+C. 3 giờ.
+A. 8 giờ. 
+B. 4 giờ.
+D. 12 giờ. 
+Câu 5. Một mạch dao động LC lí tưởng gồm cuộn cảm thuần có độ tự cảm 20 mH và tụ điện có điện dung C. Trong mạch đang có dao động điện từ tự do với cường độ dòng điện i = 0,2cos(2.103t) (i tính bằng A, t tính bằng s). Ở thời điểm cường độ dòng điện trong mạch bằng một nửa cường độ dòng điện cực đại thì hiệu điện thế giữa hai bản tụ có độ lớn bằng
+D. \(4\sqrt 3 {\rm{ V}}{\rm{.}}\)
+A. \(3\sqrt 3 {\rm{ V}}{\rm{.}}\)
+C. \(6\sqrt 3 {\rm{ V}}{\rm{.}}\)
+B. \(2\sqrt 3 {\rm{ V}}{\rm{.}}\)
+Câu 6. Trong thí nghiệm I–âng về giao thoa ánh sáng, nguồn sáng sử dụng là nguồn đơn sắc có bước sóng λ. Tại điểm M trên màn quan sát, ta thu được vân sáng bậc k. Khi tăng hoặc giảm khoảng cách từ hai khe tới màn quan sát một đoạn ΔD (sao cho màn quan sát vẫn song song với màn chứa hai khe và vị trí vân sáng trung tâm không thay đổi) thì tại M có vân sáng tương ứng với bậc k1 và bậc k2. Mối liên hệ giữa k, k1 và k2 là:
+D. \(\frac{1}{k} = \frac{1}{2}\left( {\frac{1}{{{k_1}}} + \frac{1}{{{k_2}}}} \right).\)
+A. \(k = \frac{{{k_1} + {k_2}}}{2}.\)
+C. \(\frac{1}{k} = \frac{1}{2}\left| {\frac{1}{{{k_1}}} - \frac{1}{{{k_2}}}} \right|.\)
+B. \(k = \frac{{\left| {{k_1} - {k_2}} \right|}}{2}.\)
+Câu 7. Trong một thí nghiệm về giao thoa sóng trên mặt nước, hai nguồn sóng kết hợp dao động cùng pha được đặt tại A và B. Điểm M trên mặt nước dao động với biên độ cực đại và MB – MA = 8 cm. Biết tốc độ truyền sóng là 40 cm/s và tần số sóng nằm trong khoảng từ 18 Hz đến 21 Hz. Điểm M nằm trên đường cực đại bậc
+A. 4.
+B. 2.
+C. 3.
+D. 5.
+Câu 8. Trong một thí nghiệm về dao động, ta treo một vật nặng vào đầu dưới của lò xo nhẹ và kích thích cho hệ dao động điều hòa theo phương thẳng đứng. Độ lớn lực đàn hồi của lò xo tác dụng vào điểm treo biến đổi theo thời gian như hình vẽ bên. Lấy g = 10 m/s2. Khối lượng m của quả nặng là
+ image5.png
+B. 0,1 kg.
+A. 0,2 kg.
+C. 0,3 kg.
+D. 0,4 kg.
+Câu 9. Đặt điện áp \(u = U\sqrt 2 \cos \omega t\) (V) (U và ω không đổi) vào hai đầu đoạn mạch  mắc nối tiếp gồm điện trở R và cuộn cảm thuần có độ tự cảm L thay đổi được. Dùng vôn kế lí tưởng mắc vào hai đầu L. Khi L = L1 thì số chỉ vôn kế là U1, độ lệch pha của u và i là φ1 và mạch AB tiêu thụ công suất là P1. Khi L = L2 thì số chỉ vôn kế là U2, độ lệch pha của u và i là φ2 và mạch AB tiêu thụ công suất là P2. Nếu \({\varphi _2} + {\varphi _1} = \frac{\pi }{2}\) và U1 = 3U2 thì tỉ số \(\frac{{{P_2}}}{{{P_1}}}\) là
+B. 9. 
+A. \(\frac{1}{9}\).
+C. 3. 
+D. \(\frac{1}{3}\).
+#Cho A là thức điện áp hai đầu đoạn mạch. Nếu \(A<|{{A}_{1}}-{{A}_{2}}|\) biểu thức của c độ lệch pha:
+A. \(\frac{1}{\sqrt{2}}\)	
+B. \(\frac{\sqrt{3}}{2}\)	
+C. 1	
+D. 3
+#Hai dao động điều hòa cùng phương cùng tần số có độ lệch pha ∆φ. Biên độ của hai dao động lần lượt là A1 và A2
+A. 1,5 	
+B. 15	
+C. 25	
+D. 35
+#Biết rằng trong khoảng giữa hai vân này không có vân sáng nào nữa:
+A. 0,1 mm	
+B. 0,3 mm
+C. 0,2 mm	
+D. 0,4 mm
+
+#Có bao nhiêu dao động điều hòa dọc theo hai đường thẳng song song?
+A. 15	
+B. 20
+C. 25	
+D. 120
+#Hai chất điểm M và N dao động điều hòa dọc theo hai đường thẳng song song và coi như ở sát với nhau và coi như cùng gốc tọa độ O. Phương trình dao động của chúng lần lượt là
+A. 9,8%	
+B. 30%	
+C. 25,5%	
+D. 85%
+#Một ống dây tiết diện 10 cm2, chiều dài 20 cm và có 1000 vòng dây Hệ số tự cảm của ống dây (không lõi, đặt trong không khí) là:
+A.0,2π H.	
+B.0,2πmH.	
+C.2π mH.                  
+D.0,2 mH.
+#Cho mạch dao động LC lý tưởng gồm cuộn dây thuần cảm L mắc vào hệ hai tụ giống nhau mắc song song. Cường độ dòng điện cực đại trong mạch là I0 = 1 mA. Khi cường độ dòng điện trong mạch là I, ta tháo nhanh một tụ khỏi mạch. Cường độ dòng điện cực đại sau đó là I'0 = 0,8 mA. Tìm I
+A.0,53 mA            	
+B.0,6 mA             	
+C.0,45 mA               
+D.0,27 mA
+
+
+@Hóa học {-}
+
+Câu 10. Thêm từ từ dung dịch HCl vào dung dịch NaOH thu được dung dịch A. Đồ thị mô tả sự thay đổi pH của dung dịch A vào thể tích dung dịch HCl được thêm có dạng là
+A.  image6.png
+C.  image7.png
+B. image8.png
+D.  image9.png
+
+
+Câu 11. Một khối đồng kim loại hình trụ đường kính 5 cm, chiều dài 30 cm cần được mạ vàng với chiều dày lớp mạ 5,0 m. Cho biết: cường độ dòng điện đi qua bể mạ là 3,0 A; dung dịch trong bể mạ là Au(NO3)3; hiệu suất điện phân là 100%; khối lượng riêng của Au bằng 19,3 g/cm3; hằng số Faraday F = 96500 C/mol. Thời gian cần để mạ khối kim loại trên là
+(Cho biết nguyên tử khối của các nguyên tố: N = 14; O = 16; Au = 197.)
+C. 40,20 phút	.
+A. 13,40 phút.		
+B. 37,11 phút.
+D. 38,66 phút.
+Câu 12. Tinh thể chất X không màu, tan tốt trong nước, không bị phân hủy khi đốt nóng. Khi đốt chất X trên ngọn lửa không màu, ngọn lửa có màu vàng. Cho X tác dụng vừa đủ với dung dịch nước brom thu được dung dịch Y. Thêm vài mảnh Cu vào dung dịch Y thấy thoát ra khí không màu hóa nâu trong không khí. Chất X có thể là
+B. NaNO2.
+A. NaNO3.
+C. NaI	.
+D. KNO2.
+
+Câu 13. Nung m gam bột sắt trong oxi, thu được 30 gam hỗn hợp chất rắn X. Hòa tan hết hỗn hợp X bởi lượng vừa đủ dung dịch HNO3 10%, thu được dung dịch Y và 3,36 lít (ở đktc) NO (là sản phẩm khử duy nhất). Cô cạn Y, lấy chất rắn thu được đem nung trong không khí đến khối lượng không đổi được 36 gam chất rắn Z. Nồng độ phần trăm của Fe(NO3)3 trong dung dịch Y là
+(Cho biết nguyên tử khối của các nguyên tố: H = 1; N = 14; O = 16; Fe = 56.)
+A. 4,64%. 
+B. 4,62%. 
+C. 6,91%. 
+D. 8,99%.
+Câu 14. Bột ngọt (còn được gọi là mì chính - được sử dụng làm gia vị) là muối mononatri của axit glutamic. Công thức cấu tạo thu gọn của mononatri glutamat là
+B. HOOC-CH2-CH2-CH(NH2)-COONa
+A. NaOOC-CH2-CH2-CH(NH2)-COONa
+C. HOOC-CH2-CH(NH2)-COONa
+D. HOOC-CH2-CH(NH2)-CH2-COONa
+Câu 15. Trong thiết bị đo nồng độ cồn có trong khí thở, xảy ra phản ứng hoá học sau:
+CrO3 (màu đỏ đậm)   +  C2H5OH    Cr2O3 (màu lục tối)  +  CH3COOH  +  H2O
+Một lái xe thổi 50 ml khí thở vào máy đo nồng độ cồn, thấy tạo ra 0,0608 miligam chất rắn màu lục tối. Nồng độ cồn có trong khí thở của lái xe đó là
+(Cho biết nguyên tử khối của các nguyên tố: H = 1; C = 12; O = 16; Cr = 52.)
+D. 0,552 miligam/lít
+A.	0,368 miligam/lít
+B.	1,104 miligam/lít
+B. 0,736 miligam/lít	
+Câu 16. Cho các nhận xét sau:
+I. “Nước đá khô” được dùng làm chất bảo quản hoa, quả, thực phẩm có thành phần chính là H2O.
+II. Phenol là chất rắn không màu, tan nhiều trong nước lạnh.
+III. Dung dịch fomon được dùng để ngâm mẫu động vật (làm tiêu bản) chứa HCHO có nồng độ 37 - 40%.
+IV. Thuỷ phân etyl axetat trong môi trường axit, để nguội hỗn hợp sau phản ứng tách thành hai lớp.
+V. Khi bị suy nhược cơ thể, bệnh nhân thường được truyền dung dịch glucozơ 5% để nhanh phục hồi.
+VI. Các amino axit Gly, Ala, Lys là chất rắn, tan tốt trong nước tạo thành dung dịch làm đổi màu quỳ tím. 
+Số nhận xét đúng là
+A.	3
+B.	4
+C.	5
+D.	6
+Câu 17. Este X hai chức, mạch hở, tạo bởi axit malonic (HOOC-CH2-COOH) với hai ancol no, mạch hở, đơn chức. Este Y ba chức, mạch hở, tạo bởi ancol no, mạch hở ba chức với một axit cacboxylic không no, đơn chức (phân tử có hai liên kết pi). Đốt cháy hoàn toàn m gam hỗn hợp A gồm X và Y cần vừa đủ 6,72 lít O2 (đktc) thu được 6,048 lít CO2 (đktc). Mặt khác, thủy phân hoàn toàn 0,09 mol A cần vừa đủ 84 ml dung dịch NaOH 2,5M thu được hai muối (có cùng số nguyên tử cacbon trong phân tử) và a gam hỗn hợp Z gồm ba ancol. Giá trị của a là
+(Cho biết nguyên tử khối của các nguyên tố: H = 1; C = 12; O = 16; Na = 23.)
+A. 8,70
+B. 6,60
+C. 4,68
+D. 12,12
+#Nung 200 gam quặng Đolomit chứa 8% tạp chất trơ với hiệu suất 75% thu được m gam chất rắn. Giá trị của m là
+A.167,0                           
+B.118,0                               
+C.134,0                             
+D.162
+
+
+@Sinh học {-}
+Câu 18. Tế bào của cơ thể sinh vật nào sau đây không chứa các bào quan có màng bao bọc?
+A. Vi khuẩn.
+B. Động vật.
+C. Thực vật.
+D. Nấm.
+Câu 19. Người ta thực hiện thí nghiệm tách tim ếch nguyên vẹn ra khỏi lồng ngực của nó và cho vào dung dịch sinh lí (dung dịch Ringer) được cung cấp đủ ôxi và giữ ở nhiệt độ thích hợp. Dự đoán và giải thích nào sau đây đúng?
+A. Tim ếch vẫn đập bình thường một thời gian vì nút xoang nhĩ của tim có khả năng phát nhịp tự động.
+B. Tim ếch vẫn đập bình thường một thời gian vì bó His và mạng Puôckin có khả năng phát xung tự động, nhịp nhàng và lan tỏa ra toàn bộ khối cơ tim.
+C. Tim ếch ngừng đập vì tim không còn sự liên hệ với hệ thần kinh của cơ thể.
+D. Tim ếch ngừng đập vì không có dòng máu đến nuôi dưỡng các tế bào cơ tim.
+Câu 20. Từ một cây ban đầu có kiểu gen quý hiếm, bằng cách nào sau đây có thể nhanh chóng tạo ra một lượng lớn cây trồng có kiểu gen giống với cây ban đầu?
+A. Áp dụng công nghệ tế bào.
+C. Gây đột biến.
+B. Áp dụng kĩ thuật chuyển gen.
+D. Cho lai với một cây khác cùng loài.
+Câu 21. Đột biến đảo đoạn nhiễm sắc thể và đột biến chuyển đoạn giữa các nhiễm sắc thể không tương đồng có bao nhiêu đặc điểm chung trong số các đặc điểm sau đây?
+I. Đều có thể làm giảm khả năng sinh sản của thể đột biến.
+II. Đều có thể làm thay đổi hàm lượng ADN trong tế bào. 
+III. Đều có thể làm thay đổi hình thái nhiễm sắc thể.
+IV. Đều không làm thay đổi nhóm gen liên kết trên nhiễm sắc thể.
+B. 2.
+A. 3.
+C. 4.
+D. 1.
+Câu 22. Ở một loài chim, thực hiện phép lai P: ♂ mắt đen, lông vằn × ♀ mắt đỏ, lông nâu, thu được F1 gồm toàn cá thể mắt đỏ, lông vằn. Cho F1 giao phối với nhau thu được F2 có tỉ lệ: 6 ♂ mắt đỏ, lông vằn : 2 ♂ mắt đen, lông vằn : 3 ♀ mắt đỏ, lông vằn : 3 ♀ mắt đỏ, lông nâu : 1 ♀ mắt đen, lông vằn : 1 ♀ mắt đen, lông nâu. Biết mỗi gen quy định một tính trạng. Theo lí thuyết, có bao nhiêu phát biểu sau đây về tính trạng màu mắt và màu lông là đúng? 
+I. Tính trạng màu lông do gen nằm trên nhiễm sắc thể giới tính quy định.
+II. Ở F2, các cá thể đực mắt đen, lông vằn đều có kiểu gen giống nhau.
+III. Cho tất cả các cá thể mắt đỏ, lông vằn ở F2 giao phối ngẫu nhiên với nhau thì sẽ thu được đời con có tỉ lệ 2 ♂ : 1 ♀.
+IV. Có tối đa 21 kiểu gen ở loài chim này.
+A. 1.
+B. 2.
+C. 3.
+D. 4.
+Câu 23. Theo thuyết tiến hóa hiện đại, nhân tố đột biến và nhân tố di – nhập gen có bao nhiêu đặc điểm chung trong số các đặc điểm sau đây?
+I. Đều làm thay đổi tần số alen theo một hướng xác định.
+II. Có thể làm tăng tính đa dạng di truyền của quần thể.
+III. Có thể làm thay đổi nhanh chóng tần số alen của quần thể.
+IV. Có thể làm xuất hiện các alen mới trong quần thể.
+C. 2.
+A. 1.
+B. 4.
+D. 3.
+Câu 24. Phát biểu nào sau đây về sự phân bố cá thể của quần thể là sai?
+A. Kiểu phân bố theo nhóm là kiểu phân bố ít gặp nhất.
+B. Kiểu phân bố đồng đều làm giảm mức độ cạnh tranh giữa các cá thể trong quần thể.
+C. Kiểu phân bố ngẫu nhiên giúp sinh vật tận dụng được nguồn sống tiềm tàng trong môi trường.
+D. Phân bố đồng đều thường gặp khi điều kiện sống phân bố một cách đồng đều trong môi trường và khi có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.
+Câu 25. Có bao nhiêu phát biểu sau đây đúng khi nói về mối quan hệ vật ăn thịt – con mồi và mối quan hệ vật kí sinh - sinh vật chủ?
+I. Trong cả hai mối quan hệ này đều có một loài có lợi và một loài bị hại.
+II. Kích thước vật ăn thịt thường lớn hơn kích thước con mồi.
+III. Vật ăn thịt giết chết con mồi, vật kí sinh thường giết chết vật chủ.
+IV. Số lượng vật kí sinh thường nhiều hơn vật chủ.
+C. 3.
+A. 2. 
+B. 4.
+D. 1.
+
+@Lịch sử {-}
+Câu 26. Nội dung nào sau đây không phải là chính sách đối ngoại xuyên suốt của Liên Xô sau Chiến tranh thế giới thứ hai?
+A. Mở rộng các liên minh quân sự ở châu Âu và châu Á.
+B. Ủng hộ phong trào giải phóng dân tộc trên thế giới.
+C. Bảo vệ nền hoà bình và an ninh thế giới.
+D. Viện trợ, giúp đỡ các nước xã hội chủ nghĩa.
+Câu 27. Phong trào chống chủ nghĩa thực dân sau Chiến tranh thế giới thứ hai bùng nổ sớm nhất ở khu vực nào sau đây của châu Phi?
+B. Bắc Phi.
+A. Đông Phi.
+C. Trung Phi.
+D. Nam Phi.
+Câu 28. Nội dung nào sau đây phản ánh đúng tác động của phong trào giải phóng dân tộc đến quan hệ quốc tế sau Chiến tranh thế giới thứ hai đến năm 2000?
+C. Tăng cường quan hệ bình đẳng, hợp tác giữa các quốc gia. 
+A. Chấm dứt tình trạng bất bình đẳng trong quan hệ quốc tế.
+B. Trực tiếp dẫn đến sự sụp đổ trật tự thế giới hai cực Ianta.
+D. Dẫn đến sự ra đời của tổ chức chính trị quốc tế đầu tiên.
+Câu 29. Các cuộc khởi nghĩa trong phong trào Cần vương (cuối thế kỉ XIX) ở Việt Nam chủ yếu diễn ra trên địa bàn nào sau đây?
+D. Bắc Kì và Trung Kì.
+A. Miền Tây Nam Kì.
+C. Nam Kì và Trung Kì.
+B. Miền Đông Nam Kì.
+Câu 30. Tư tưởng chính trị của tổ chức Việt Nam Quang phục hội (thành lập năm 1912) có điểm mới nào sau đây so với Hội Duy tân (thành lập năm 1904)?
+B. Gắn mục tiêu độc lập dân tộc với xây dựng nền cộng hòa.
+A. Xây dựng mặt trận dân tộc rộng rãi chống thực dân Pháp. 
+C. Chủ trương xây dựng lực lượng trong nước kết hợp cầu viện.
+D. Xác định mục tiêu đánh đổ thực dân Pháp bằng bạo động.
+Câu 31. Nội dung nào sau đây phản ánh đúng ý nghĩa sự ra đời các tổ chức Cộng sản ở Việt Nam năm 1929?
+C. Chứng minh lí luận giải phóng giai cấp đáp ứng được yêu cầu của lịch sử dân tộc.
+A. Đưa giai cấp công nhân thành người lãnh đạo tuyệt đối của phong trào dân tộc.
+B. Chấm dứt sự khủng hoảng về tổ chức của phong trào yêu nước ở Việt Nam.
+D. Đưa cách mạng Việt Nam vào quỹ đạo của cách mạng vô sản thế giới.
+Câu 32. Nhận xét nào sau đây phản ánh đúng sự chuẩn bị của Đảng Cộng sản Đông Dương cho thắng lợi của Cách mạng tháng Tám năm 1945?
+A. Tiến hành chiến tranh du kích, vận động toàn dân, vũ trang toàn dân chống xâm lược.
+B. Xây dựng lực lượng chính trị, kết hợp phát triển lực lượng vũ trang ba thứ quân.
+C. Từ khởi nghĩa từng phần tiến lên tổng khởi nghĩa và chiến tranh cách mạng.
+D. Xây dựng căn cứ địa cách mạng, kết hợp huy động nguồn lực từ hậu phương quốc tế.
+Câu 33. Chiến thắng Biên giới thu - đông năm 1950 của quân dân Việt Nam có một trong những ý nghĩa nào sau đây?
+B. Đánh dấu sự chuyển hóa về quyền chủ động trên chiến trường.
+A. Là chiến dịch điển hình cho lối đánh du kích của bộ đội chủ lực.
+C. Là trận phản công lớn đầu tiên do quân chủ lực chủ động mở.
+D. Tạo cơ sở để đặt quan hệ ngoại giao với các nước xã hội chủ nghĩa.
+Câu 34. Nghị quyết 15 (1 - 1959) và Nghị quyết 21 (7 - 1973) của Ban Chấp hành Trung ương Đảng Lao động Việt Nam có điểm chung nào sau đây?
+A. Khẳng định tiến công là phương hướng chiến lược của chiến tranh cách mạng. 
+B. Xác định kế hoạch tổng công kích giải phóng miền Nam thống nhất đất nước. 
+C. Khẳng định quyết tâm đánh thắng quân đội viễn chinh và quân đồng minh của Mĩ.
+D. Chủ trương đưa đấu tranh ngoại giao thành một mặt trận tiến công kẻ thù.
+Câu 35. Nội dung nào sau đây là nguyên nhân cơ bản dẫn đến tình trạng khủng hoảng ở Việt Nam trước khi đổi mới đất nước (1976 - 1985)?
+D. Sai lầm về chủ trương, chính sách lớn.
+A. Bị các nước đế quốc bao vây quân sự.
+B. Thiên tai thường xuyên xảy ra.
+C. Nền kinh tế bị chiến tranh tàn phá.
+
+@Địa lý {-}
+Câu 36. Ngành công nghiệp nào sau đây là mũi nhọn của nền kinh tế Liên bang Nga và thu về nhiều ngoại tệ?
+A. Dầu khí
+B. Chế tạo máy
+C. Luyện kim
+D. Điện tử - tin học
+Câu 37. Các cây cà phê, cao su, hồ tiêu được trồng ở nhiều quốc gia trong khu vực Đông Nam Á là nhờ các điều kiện thuận lợi chính nào sau đây?
+B. Khí hậu nóng ẩm, đất badan tơi xốp và màu mỡ
+A. Đất trồng phong phú, địa hình khá bằng phẳng
+C. Sông ngòi dày đặc, đất phù sa ngọt diện tích rộng
+D. Địa hình cao nguyên, khí hậu cận xích đạo
+Câu 38. Các yếu tố nào sau đây là chính gây ra mùa mưa ở nước ta từ tháng 5 đến tháng 10?
+C. Gió mùa Tây Nam và dải hội tụ nhiệt đới
+A. Tín phong bán cầu Nam, gió Đông Nam, gió phơn Tây Nam
+B. Dãy Bạch Mã, gió mùa Đông Bắc, gió mùa Tây Nam
+D. Bức chắn Trường Sơn, Tín phong bán cầu Bắc, áp thấp Bắc Bộ
+Câu 39. Lũ quét thường xảy ra ở những khu vực có các đặc điểm nào sau đây của nước ta?
+D. Lưu vực sông miền núi, địa hình dốc cao, mất lớp phủ thực vật, mưa lớn
+A. Địa hình dốc cao chia cắt mạnh, nhiều rừng nguyên sinh, mưa nhiều, độ ẩm cao
+B. Miền núi địa hình dốc cao, mưa lớn, độ che phủ rừng cao, nhiều vực sâu
+C. Mưa nhiều, mất lớp phủ thưc vật, địa hình thấp, nhiều thung lũng lòng chảo
+Câu 40. Các nguyên nhân nào sau đây là chính làm cho dân số nước ta vẫn còn tăng nhanh?
+B. Mức gia tăng dân số giảm chậm, qui mô dân số lớn
+A. Tỉ suất sinh giảm chậm, nguồn lao động dồi dào
+C. Độ tuổi kết hôn sớm, tỉ lệ dân nông thôn cao
+D. Tỉ lệ trẻ em cao, cơ cấu dân số đang già hóa
+Câu 41. Cho biểu đồ qui mô và cơ cấu GDP phân theo thành phần kinh tế của nước ta năm 2010 và 2020.
+ 
+Nhận xét không đúng về sự thay đổi cơ cấu GDP phân theo thành phần kinh tế của nước ta năm 2010 và 2020 là tỉ trọng GDP thành phần kinh tế
+C. Nhà nước giảm chậm hơn kinh tế ngoài Nhà nước.
+A. ngoài Nhà nước giảm chậm nhất.
+B. có vốn đầu tư nước ngoài tăng nhanh nhất.
+D. ngoài Nhà nước giảm, có vốn đầu tư nước ngoài tăng.
+Câu 42. Các ngành công nghiệp năng lượng, cơ khí - điện tử, chế biến lương thực thực phẩm là các ngành trọng điểm ở nước ta vì
+B. mang lại hiệu quả kinh tế cao, có thế mạnh lâu dài, thúc đẩy các ngành khác phát triển.
+A. có nguyên - nhiên liệu phong phú, mang lại hiệu quả kinh tế cao, có nhân lực dồi dào.
+C. ít gây ô nhiễm môi trường, thu hút nhiều vốn đầu tư, mang lại hiệu quả kinh tế cao.
+D. thúc đẩy các ngành khác phát triển, sản xuất hàng xuất khẩu, hấp dẫn đầu tư nước ngoài.
+Câu 43. Căn cứ Atlat Địa lí Việt Nam trang 29 (NXB Giáo dục từ năm 2010 đến nay), cho biết các cây công nghiệp nào sau đây không được trồng ở Đông Nam Bộ?
+A. Chè, bông, đay, cói
+C. Hồ tiêu, điều, cao su, thuốc lá
+B. Cao su, cà phê, mía, lạc
+D. Mía, lạc, hồ tiêu, điều
+Câu 44. Các điều kiện nào sau đây là chính giúp cho Tây Nguyên trồng được các cây công nghiệp như cà phê và chè?
+D. Khí hậu cận xích đạo phân hóa theo chiều cao, đất badan vụn bở có tầng phong hóa dày rất màu mỡ
+A. Đất badan vụn bở, tơi xốp, đất phù sa cổ dễ thoát nước, mùa khô dài thuận lợi để phơi sấy nông sản
+B. Sông ngòi dày đặc, nước tưới dồi dào, lao động nhiều kinh nghiệm trồng và chế biến nông sản
+C. Địa hình cao nguyên khá bằng phẳng, đất phù sa cổ dễ thoát nước, công nghệ chế biến tiên tiến
+Câu 45. Phát biểu nào sau đây không đúng về thế mạnh phát triển kinh tế biển của vùng Trung du và miền núi Bắc Bộ?
+B. Vùng biển rộng, có đáy sâu, giáp với biển Nam Trung Hoa, nhiều quần đảo
+A. Có ngư trường trọng điểm, giàu hải sản, nhiều vịnh biển và đảo ven bờ
+C. Cảnh quan biển hấp dẫn, có di sản thiên nhiên thế giới và cảng nước sâu
+D. Ven biển nhiều nơi có vịnh sâu để xây cảng, phát triển nuôi trồng thủy sản
+
+@Giáo dục công dân {-}
+Câu 46. Gia đình anh chị H bán chiếc xe ô tô mà gia đình đang sử dụng, rồi dùng tiền đó mua vật phẩm thiết yếu ủng hộ cho người dân địa phương phòng chống dịch Covid-19. Lúc này, tiền tệ thực hiện chức năng gì?
+A.	Phương tiện lưu thông.
+C. Thừa nhận giá trị.
+B. Phương tiện thanh toán.	
+D. Giao dịch hàng hóa.
+Câu 47. Theo quy định của pháp luật, vợ chồng có quyền và nghĩa vụ ngang nhau trong việc nào dưới đây?
+A.	Tôn trọng và giữ gìn danh dự, nhân phẩm, uy tín của nhau.
+B.	Bàn bạc, thống nhất để sàng lọc, lựa chọn giới tính thai nhi.
+C.	Bàn bạc, thống nhất quyết định việc lựa chọn bạn đời cho con.
+D.	Quyết định lựa chọn hình thức học tập và nghề nghiệp của con.
+Câu 48. Với thông điệp “Học tập - một kho báu tiềm ẩn”, Báo cáo của Hội đồng Giáo dục thuộc UNESCO nói về “Giáo dục thế kỷ XXI” đề ra từ năm 1997 đã khẳng định vai trò cơ bản của giáo dục trong sự phát triển của xã hội và của mỗi cá nhân, đồng thời đưa ra 4 trụ cột của giáo dục là: Học để biết - Học để làm - Học để khẳng định mình và Học để
+B. cùng chung sống.
+A.	giao lưu văn hóa.
+C. làm người.
+D. đóng góp cho xã hội.
+Câu 49. Ngày Quốc tế Hạnh phúc (International Day of Happiness) 20 - 3 do Bhutan khởi xướng, được Đại hội đồng Liên hợp quốc thông qua tại Nghị quyết 66/281 năm 2012 và đã được các thành viên Liên hợp quốc, trong đó có Việt Nam cam kết thực hiện. Đâu là thông điệp ngày Quốc tế Hạnh phúc hướng đến? 
+A.	Cân bằng, hài hoà là chìa khoá hạnh phúc.
+B.	Thoả mãn vật chất là chìa khoá hạnh phúc. 
+C.	Cân bằng tinh thần là chìa khoá hạnh phúc.
+D.	Đáp ứng nhu cầu là chìa khoá hạnh phúc.
+Câu 50. Có bao nhiêu biện pháp dưới đây giúp chúng ta sử dụng mạng xã hội an toàn, hạn chế bị đánh cắp danh tính?
+I. Tuyệt đối không sử dụng các nền tảng mạng xã hội.
+II. Không tuỳ tiện cung cấp thông tin riêng tư cho người khác.
+III. Tăng cường bảo mật tài khoản và các thiết bị điện tử.
+IV. Tin tưởng hoàn toàn những nội dung trên mạng xã hội.
+V. Bảo vệ dấu chân kĩ thuật số trên tất cả các thiết bị.
+VI. Thường xuyên chia sẻ hình ảnh cá nhân trên mạng.
+D. 5
+A. 2
+B. 3
+C. 4
+
+

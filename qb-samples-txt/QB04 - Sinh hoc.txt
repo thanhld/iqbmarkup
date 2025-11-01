@@ -1,0 +1,106 @@
+$Menđen và Di truyền học {1}
+#Tính trạng là
+D. những đặc điểm về hình thái, cấu tạo, sinh lý của một cơ thể.
+A. những biểu hiện của kiểu gen thành kiểu hình
+B. kiểu hình bên ngoài cơ thể sinh vật.
+C. các đặc điểm bên trong cơ thể sinh vật.
+
+#Dòng thuần là
+B. dòng đồng hợp về kiểu gen và cùng biểu hiện 1 kiểu hình.
+A. dòng mang tất cả các cặp gen đồng hợp.
+C. dòng mang các cặp gen đồng hợp trội.
+D. dòng mang các cặp gen đồng hợp lặn.
+
+#Sau khi Bình cho An 10 chiếc kẹo, hai bạn có số kẹo bằng nhau. Các phát biểu sau đây đúng hay sai?
+*Đúng/Sai
+^Ban đầu, Bình có nhiều hơn An 10 chiếc kẹo.
+^Ban đầu, Bình có nhiều hơn An 20 chiếc kẹo. [x]
+^Ban đầu, Bình có nhiều hơn An 30 chiếc kẹo.
+^Ban đầu, không thể biết chính xác mỗi bạn có bao nhiêu kẹo. [x]
+/0.1   /0.25    	/0.5   /1
+
+# Tìm phân số tối giản của 15/30. Có thể sử dụng số hữu tỉ để biểu diễn giá trị.
+/
+{1/2 ; 0,5 ; 0.5}
+
+
+$Menđen và Di truyền học {2}
+#Theo Menđen, tính trạng được biểu hiện ở cơ thể lai F1 được gọi là
+D. tính trạng trội.
+A. tính trạng lặn
+B. tính trạng tương ứng.
+C. tính trạng trung gian.
+
+#Tính trạng tương phản là
+A. các tính trạng cùng một loại nhưng biểu hiện trái ngược nhau.
+B. những tính trạng số lượng và chất lượng.
+C. tính trạng do một cặp alen quy định.
+D. các tính trạng khác biệt nhau.
+$Menđen và Di truyền học {3}(2)
+#Menđen chọn các cặp tính trạng tương phản khi thực hiện phép lai vì
+B. thuận tiện cho việc theo dõi sự di truyền của từng cặp tính trạng qua các thế hệ.
+A. thuận tiện cho việc lai các cặp bố mẹ với nhau.
+C. thuận tiện cho việc sử dụng toán thống kê để phân tích số liệu thu được.
+D. thuận tiện cho việc chọn các dòng thuần chủng.
+
+
+$Menđen và Di truyền học {4}(2)
+
+
+
+#Theo Menđen, yếu tố di truyền nguyên vẹn từ bố mẹ sang con là gì?
+D. Nhân tố di truyền.
+A. Alen
+B. Kiểu gen.
+C. Tính trạng.
+$Lai hai cặp tính trạng {1}
+#Trong thí nghiệm hai cặp tính trạng, Menđen lai hai thứ đậu Hà Lan có đặc điểm gì?
+{x3}
+(A) Thuần chủng.
+(B) Khác nhau về hai cặp tính trạng.
+(C) Khác nhau về hai cặp tính trạng tương phản.
+(D) Cả 3 đáp án trên.
+/D
+
+#Trong thí nghiệm hai cặp tính trạng, Menđen cho F1
+C. tự thụ phấn.
+A. lai với bố mẹ.
+B. lai với vàng, nhăn.
+D. lai với xanh, nhăn.
+$Lai hai cặp tính trạng {2}
+#Điền vào chỗ trống: “Khi lai hai bố mẹ khác nhau về … cặp tính trạng thuần chủng tương phản … với nhau cho F2 có tỉ lệ mỗi kiểu hình bằng … các tỉ lệ của các tính trạng hợp thành nó”.
+A. hai; di truyền độc lập; tích.
+B. một; di truyền độc lập; tích.
+C. hai; di truyền; tích.
+D. hai; di truyền độc lập; tổng.
+
+#Từ kết quả thí nghiệm lai hai cặp tính trạng, Menđen thấy rằng
+B. các tính trạng màu sắc và hình dạng di truyền không phụ thuộc vào nhau.
+A. các tính trạng màu sắc và hình dạng di truyền phụ thuộc vào nhau.
+C. các tính trạng màu sắc di truyền phụ thuộc vào nhau còn các tính trạng hình dạng di truyền không phụ thuộc vào nhau.
+D. các tính trạng màu sắc di truyền không phụ thuộc vào nhau còn các tính trạng hình dạng di truyền phụ thuộc vào nhau.
+$Nhiễm sắc thể {1}
+#Nhiễm sắc thể (NST) là gì?
+A. NST là cấu trúc nằm trong nhân tế bào.
+C. NST là cấu trúc nằm trong nhân tế bào, dễ bắt màu khi được nhuộm bằng dung dịch thuốc nhuộm mang tính kiềm.
+B. NST là cấu trúc nằm ngoài nhân tế bào, dễ bắt màu khi được nhuộm bằng dung dịch thuốc nhuộm mang tính kiềm.
+D. NST là cấu trúc nằm ngoài nhân tế bào.
+
+#Vật chất di truyền ở cấp độ tế bào là
+A. Nhiễm sắc thể.
+B. Axit nucleic.
+C. Nucleotide.
+D. Ncleosome.
+$Nhiễm sắc thể {2}
+#Đặc điểm nào sau đây không phải là tính đặc trưng của bộ NST?
+D. Sự nhân đôi, phân li, tổ hợp.
+A. Trong tế bào sinh dưỡng, NST tồn tại thành từng cặp tương đồng.
+B. Hình thái và kích thước NST.
+C. Số lượng NST trong tế bào sinh dưỡng và trong giao tử.
+
+#Tâm động là gì?
+B. Tâm động là điểm dính NST với sợi tơ trong thoi phân bào.
+A. Tâm động là nơi chia NST thành 2 cánh.
+C. Tâm động là nơi có kích thước nhỏ nhất của NST.
+D. Tâm động là điểm dính NST với protein histon.
+
