@@ -11,17 +11,6 @@ A. dòng mang tất cả các cặp gen đồng hợp.
 C. dòng mang các cặp gen đồng hợp trội.
 D. dòng mang các cặp gen đồng hợp lặn.
 
-#Sau khi Bình cho An 10 chiếc kẹo, hai bạn có số kẹo bằng nhau. Các phát biểu sau đây đúng hay sai?
-*Đúng/Sai
-^Ban đầu, Bình có nhiều hơn An 10 chiếc kẹo.
-^Ban đầu, Bình có nhiều hơn An 20 chiếc kẹo. [x]
-^Ban đầu, Bình có nhiều hơn An 30 chiếc kẹo.
-^Ban đầu, không thể biết chính xác mỗi bạn có bao nhiêu kẹo. [x]
-/0.1   /0.25    	/0.5   /1
-
-# Tìm phân số tối giản của 15/30. Có thể sử dụng số hữu tỉ để biểu diễn giá trị.
-/
-{1/2 ; 0,5 ; 0.5}
 
 
 $Menđen và Di truyền học {2}
